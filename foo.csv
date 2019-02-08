@@ -1,0 +1,26 @@
+Belgaum,Karnataka,Business & Industrial Centre,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,28856,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Vishakhapatnam,Andhra Pradesh,Port City,2,N/A,5.64,N/A,513.61,3365,18.62,44.61,1.21,81.79,1728128,8.49,3.95,50580,36.78,N/A,6.86,11.07,17.01,10.50,9.72,24.12,4.48,1.70
+Delhi,New Delhi,Capital,1,16349831,N/A,N/A,42.74,6032,21.88,7.76,0.00,89.83,257803,19.24,2.03,112510,37.30,N/A,0.00,16.43,8.51,24.95,6.07,17.47,12.08,0.00
+Ahmadabad,Gujarat,Business & Industry,2,6357693,4.60,N/A,468.92,11895,19.26,4.49,1.20,88.29,5577940,10.66,0.86,48301,37.06,N/A,4.72,15.93,N/A,19.33,6.39,22.32,5.98,0.73
+Coimbatore,Tamil Nadu,Business & Industrial Centre,2,2136916,1.21,N/A,105.6,9950,15.94,12.29,0.07,91.30,1050721,10.27,3.21,65781,41.30,N/A,7.10,24.35,9.83,7.69,6.27,26.25,4.60,3.83
+Jabalpur,Madhya Pradesh,Business & Industrial Centre,2,1268848,1.24,N/A,152.53,6920,20.20,45.82,4.08,87.39,1055525,14.33,0.00,38968,32.72,N/A,3.16,17.30,N/A,16.03,6.82,18.39,2.24,0.00
+Indore,Madhya Pradesh,Business & Industrial Centre,2,2170295,2.86,N/A,172.39,11393,19.68,30.05,2.61,85.87,1964086,15.40,2.07,52501,28.90,N/A,8.81,39.03,9.13,10.61,3.19,15.37,8.97,1.28
+Kochi,Kerala,Port City,2,2119724,0.11,N/A,107.13,5620,14.52,0.86,0.37,97.36,602046,3.33,4.45,63599,41.70,N/A,12.40,15.92,14.06,7.06,9.41,14.31,8.97,3.22
+Bhopal,Madhya Pradesh,Capital,2,1886100,2.24,N/A,285.88,6290,21.30,26.68,2.56,83.47,1798218,13.46,1.53,47214,35.55,N/A,10.45,29.99,6.57,3.14,8.74,9.22,14.50,0.10
+Kakinada,Andhra Pradesh,Port City,3,443028,0.53,N/A,57.36,5449,20.25,35.85,0.54,80.62,312538,8.70,4.94,37712,37.07,N/A,9.95,17.78,10.31,9.62,5.60,18.47,5.85,5.06
+Maharashtra,Pune,Business & Industrial Centre,2,5057709,2.08,N/A,276.4,11304,18.51,22.10,1.09,89.56,3124458,13.42,3.29,N/A,35.07,N/A,19.49,20.52,12.36,11.77,5.55,12.95,7.57,0.28
+Surat,Gujarat,Business & Industrial Centre,2,4591246,6.07,N/A,335.82,13304,22.02,10.46,2.95,87.89,4467797,2.36,0.29,48301,42.20,N/A,1.79,27.93,6.49,34.46,6.05,13.54,1.29,0.00
+city,state,category,tier,urban_population,population_growth,working,area,density,youth,slum,tribes,literacy,population,caste,unemployment,per_capita,working,workstatus,professionals,legislators,service,machine-operators,technicians,craft,clerks,agriculture
+Karnataka_Belgaum.csv
+AndraPradesh_Vishakhapatnam.csv
+Delhi_NewDelhi.csv
+.DS_Store
+Gujarat_Ahmadabad.csv
+TamilNadu_Coimbatore.csv
+MadhyaPradesh_Jabalpur.csv
+MadhyaPradesh_Indore.csv
+Kerala_Kochi.csv
+MadhyaPradesh_Bhopal.csv
+AndraPradesh_Kakinada.csv
+Maharashtra_Pune.csv
+Gujarat_Surat.csv

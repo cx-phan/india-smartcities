@@ -87,14 +87,15 @@ def city(data):
 def main(): 
 	print "==== NEW CITY ======= "
 	filename = sys.argv[1]
+	sys.stdout = open('file.txt', 'w')
 
 	with open(filename, "r") as myfile:
   		data = myfile.read().decode("utf-8")
 
   	city(data)
   	citystats(data)
-  	# employmentstats(data)
-  	# industry(data)
+  	employmentstats(data)
+  	industry(data)
 	
 if __name__ == "__main__":
     main()

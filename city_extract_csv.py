@@ -2,8 +2,14 @@ import os
 import sys
 import re 
 
+def toCSV(city, state, category, tier, city_stat, employment_stat, industry_stat):
+	headers = ['city', 'state', 'category', 'tier'] + city_stat.keys() + employment_stat.keys() + industry_stat.keys()
+	values = [city, state, category, tier] + city_stat.values() + employment_stat.values() + industry_stat.values()
+	# print ",".join(headers)
+	# print headers
+	print ",".join(values)
+
 def industry(data):
-	print "==== CITY INDUSTRY ==== "
 
 	industry = {} 
 	industry_stat = {}
@@ -14,23 +20,22 @@ def industry(data):
 	industry['service'] = "\"?Service workers and shop and market sales ?\n?workers\"?,([0-9.]+)"
 	industry['agriculture'] = "\"?Skilled agricultural and fishery workers\"?,+([0-9.]+)"
 	industry['craft'] = "\"?Craft and related trades workers\"?,+([0-9.]+)"
-	industry['machine-operators'] = "\"?Plant and machine operators and assemblers\"?,+([0-9.]+)"
+	industry['machine-operators'] = "\"?Plant and machine operators and\n? ?assemblers\"?,+([0-9.]+)"
 
 	for key in industry.keys(): 
 		pattern = industry[key]
 
 		temp = re.findall(pattern, data)
-		if key == 'service':
-			print "TEST >>> ", temp
-			print industry[key]
-		if len(temp) > 0:
-			industry_stat[key] = temp[0]
 
-		print key, temp
+		if len(temp) > 0:
+			industry_stat[key] = temp[0].encode('utf-8')
+		else:
+			industry_stat[key] = 'N/A'
+
+	return industry_stat
 
 # employment statistics 
 def employmentstats(data):
-	print "==== CITY EMPLOYMENT ===="
 	employment = {}
 
 	employment['per_capita'] = "Per Capita Income \(Rs.?\) at 2004-05 \D*([0-9]+)"
@@ -43,19 +48,21 @@ def employmentstats(data):
 		pattern = employment[key]
 		temp = re.findall(pattern, data)
 		if len(temp) > 0:
-			emp_stat[key] = temp[0]
+			emp_stat[key] = temp[0].encode('utf-8')
+		else:
+			emp_stat[key] = 'N/A'
 
-		print key, temp
+	return emp_stat
 
 # stats drawn on India Census 
 def citystats(data):
-	print " === CITY CENSUS ===="
+	# print " === CITY CENSUS ===="
 	city_text = {} 
 	city_stat = {}
 	# stats on population 
 
-	city_text['population'] = "Total Population,\"([0-9,]+)\""
-	city_text['urban_population'] = "Total Population of UA \(if\)\,\"([0-9,]+)\""
+	city_text['population'] = "Total Population,\"?([0-9]+)\"?"
+	city_text['urban_population'] = "Total Population of UA \(if\)\,\"?([0-9]+)\"?"
 	city_text['population_growth'] = "Population Growth Rate \(AEGR\) 2001-11,([0-9.]+)"
 	city_text['area'] = "Area \(sq\. km\)\*,([0-9.]+)"
 	city_text['density'] = "Density of population \(person per sq\. km\)\*,([0-9]+)"
@@ -71,33 +78,37 @@ def citystats(data):
 	for key in city_text.keys():
 		pattern = city_text[key]
 		temp = re.findall(pattern, data)
-		if len(temp) > 0: 
-			city_stat[key] = temp[0]
+		if len(temp) > 0:
+			city_stat[key] = temp[0].encode('utf-8')
+			# print key, city_stat[key]
+		else:
+			city_stat[key] = 'N/A'
 
-		print key, temp
+	return city_stat
 
-	# print population
 	
-def city(data):
-	print "==== CITY STATISTICS ===== "
-	city = re.findall('City: (\w+)', data)
-	state = re.findall('State: (\w+ ?\w+)', data)
+def cities(data):
+	# print "==== CITY STATISTICS ===== "
+	city = re.findall('City: (\w+)', data)[0].encode('utf-8')
+	state = re.findall('State: (\w+ ?\w+)', data)[0].encode('utf-8')
 	category_tier_search = "Category: ([.\s\S]+?), Tier ([0-9])"
 	category, tier = re.findall(category_tier_search, data)[0]
-	print city, state
-	print category, tier
+
+	return city, state, category.encode('utf-8'), tier.encode('utf-8')
 
 def main(): 
-	print "==== NEW CITY ======= "
+	# print "==== NEW CITY ======= "
 	filename = sys.argv[1]
 
 	with open(filename, "r") as myfile:
   		data = myfile.read().decode("utf-8")
 
-  	city(data)
-  	citystats(data)
-  	employmentstats(data)
-  	industry(data)
+  	city, state, category, tier = cities(data)
+  	city_stat = citystats(data)
+  	employment_stat = employmentstats(data)
+  	industry_stat = industry(data)
+
+  	toCSV(city, state, category, tier, city_stat, employment_stat, industry_stat)
 	
 if __name__ == "__main__":
     main()
