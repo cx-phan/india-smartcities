@@ -5,8 +5,6 @@ import re
 def toCSV(city, state, category, tier, city_stat, employment_stat, industry_stat):
 	headers = ['city', 'state', 'category', 'tier'] + city_stat.keys() + employment_stat.keys() + industry_stat.keys()
 	values = [city, state, category, tier] + city_stat.values() + employment_stat.values() + industry_stat.values()
-	# print ",".join(headers)
-	# print headers
 	print ",".join(values)
 
 def industry(data):
@@ -101,7 +99,7 @@ def main():
 	filename = sys.argv[1]
 
 	with open(filename, "r") as myfile:
-  		data = myfile.read().decode("utf-8")
+  		data = myfile.read().decode('utf-8')
 
   	city, state, category, tier = cities(data)
   	city_stat = citystats(data)
