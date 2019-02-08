@@ -1,0 +1,602 @@
+India Smart City Profile
+
+City: Kochi
+State: Kerala
+Category: Port City, Tier 2
+Kochi is a coastal city that lies within the district of Emakulam and is located in the state of Kerala. The city is set over 36.6 square miles and had a
+population of 602,046 residents in 2011. It is the largest urban agglomeration in the state of Kerala, but the city itself is second largest and for this
+reason is classified as a Tier II city by the Government of India. The city has a long history as a scenic city (it is known as the Queen of the Arabian
+Sea) and as a trading port and was the spice trading centre of the world in the 14th century. To this day, the city is an important tourist site which
+attracts the most domestic and international tourists in Kerala, while also being a significant economic and trading hub within the state. The city is
+home to the only stock exchange in Kerala, and has also witnessed considerable investment for industrial growth. Its port is operates as an
+international container transhipment terminal, houses oil refineries, and supports commercial maritime businesses. The city is also home to the
+Southern Naval Command of the Indian Navy.
+
+1. Demographic Profile
+Indicator
+Total Population
+Total Population of UA (if)
+Share of ULB population in District Urban population (%)
+Population Growth Rate (AEGR) 2001-11
+Area (sq. km)*
+#
+Share of ULB area in district (%)*
+Density of population (person per sq. km)*
+Literacy Rate (%)
+Schedule Caste (%)
+Schedule Tribes (%)
+Youth, 15 - 24 years (%)
+Slum Population (%)
+Working Age Group, 15-59 years (%)
+
+City (Municipal
+Corporation)
+602046
+2119724
+26.94
+0.11
+107.13
+0.21
+5620
+97.36
+3.33
+0.37
+14.52
+0.86
+66.04
+
+State (Urban)
+
+India (Urban)
+
+15934926
+
+377,106,125
+
+6.56
+
+2.76
+
+95.11
+7.66
+0.32
+15.84
+2.57
+64.17
+
+84.11
+12.60
+2.77
+19.68
+17.36
+65.27
+
+Source: Census of India, 2011
+* District Census Handbook, Census of India, 2011
+#
+The ULB is spread in more than one district
+
+2. Economic Profile
+Indicator
+
+City (Municipal Corporation)
+
+Per Capita Income (Rs.) at 2004-05 constant price *
+Urban Poverty Ratio (% of urban population)**
+Unemployment Rate, 2011-12***
+Work Participation Rate, 2011-12***
+Work Status, 2011-12 (%) ***
+Self-employed:
+Regular/wage salaried employees:
+Casual labour:
+
+63599
+4.05
+4.45
+41.70
+
+Sectoral Distribution of Workers, 2011-12 (%) ***
+Primary
+Secondary
+Tertiary
+Workers Classified by Major Occupation, 2011-12(%)
+***
+Legislators, senior officials and managers
+Professionals
+Technicians and associate professionals
+Clerks
+Service workers and shop and market sales workers
+Skilled agricultural and fishery workers
+Craft and related trades workers
+Plant and machine operators and assemblers
+
+State
+(Urban)
+42881
+5.0
+6.1
+36.3
+
+India (Urban)
+
+31.86
+44.90
+23.24
+
+36.3
+35.7
+28.0
+
+42.0
+43.4
+14.6
+
+5.10
+31.28
+63.62
+
+9
+31.2
+59.8
+
+7.5
+34.2
+58.3
+
+15.92
+12.40
+9.41
+8.97
+14.06
+3.22
+14.31
+7.06
+
+14.2
+8.9
+8.1
+4.8
+17.2
+6.2
+18.8
+6.5
+
+15.8
+8.8
+6.7
+5.0
+14.7
+4.6
+19.2
+9.2
+
+Rs. 35, 947
+13.7
+3.4
+35.5
+
+a
+
+1
+
+India Smart City Profile
+
+Elementary occupations
+Workers not classified by occupation
+#
+Primary Commodity Manufactured
+##
+
+Major Industries
+
+No. of sanctioned SEZ
+
+14.65
+0
+Aluminium
+Paper bag
+Medicine
+Metallic – Machinery,Machine tools &
+its parts
+Ship Building
+Non Metallic – Sea Foods
+Software Solutions
+14
+
+15.3
+0.0
+
+16.1
+0.1
+
+33
+
+413
+
+Note: 3 years average of 2007-08, 2008-09, 2009-10
+Source: * Directorate of Economics and Statistics of respective State Governments and for all India- Central Statistics Office
+**Unit Level Data of National Sample Survey Organization, Household Consumer Expenditure in India, 68th Round, 2011-12
+***Unit Level Data of National Sample Survey Organization, Employment and Unemployment Situation in India, 68th Round, 2011-12
+#
+District Census Handbook, Census of India, 2011
+##
+District Industrial Profile, Micro, Small and Medium Enterprises, Government of India
+∞ Department of Commerce, Ministry of Commerce and Industry
+
+3. Infrastructure Status
+Indicator
+% of households with access to tap water (from
+treated source) within Premises
+% of households with access to electricity
+% of households having toilet facilities within
+premises
+% of household Waste water outlet connected to
+drainage
+Type of sewerage system*
+Type of solid Waste system*
+% of households with access to computer/laptop
+with internet
+without internet
+% of households with access to mobile phones
+Ownership Pattern of Housing (%)
+Owned
+Rented
+% of households living in congested houses
+Indicator
+No. of Hospitals per 1,00,000 people *
+No of Schools per 1,00,000 people
+Primary
+Middle
+Secondary
+College
+
+City (Municipal
+Corporation)
+95.55
+
+State (Urban)
+
+India (Urban)
+
+30.35
+
+84.14
+
+99.08
+94.62
+
+97.01
+75.29
+
+92.68
+72.57
+
+87.41
+
+54.55
+
+81.77
+
+20.87
+14.86
+54.12
+
+8.90
+11.46
+47.45
+
+8.27
+10.40
+
+75.48
+21.72
+
+88.30
+10.00
+
+69.16
+27.55
+
+6.05
+
+6.23
+
+32.94
+
+Underground sewerage
+system
+Door to Door
+
+64.33
+
+City (Municipal Corporation)
+0.00
+NA
+NA
+NA
+NA
+NA
+
+Source: Tables of Houses, Household Amenities and Assets, Census of India, 2011
+* District Census Handbook, Census of India, 2011
+
+4. Political Profile: Leadership and Administrative Structure
+Architecture of Governance
+Structure of Elected and Executive Bodies. Give
+indication of hierarchies
+
+Numerous institutions are involved in the governance of Kochi city and the
+surrounding peri-urban areas. Some of them were established through Acts of
+legislature and others are part of state government’s framework. The Kochi
+municipal corporation (KMC) elected wing is headed by a Mayor. The city is
+divided into administrative wards, from which the members of the corporation
+council are elected for a period of five years. The commissioner is the head of
+the administrative wing. The functions of KMC includes major civic services
+including roads, street lighting, SWM, slum improvement.
+Kerala Water Authority (KWA) is responsible for the design, construction,
+
+2
+
+India Smart City Profile
+
+execution, operation and maintenance of most of the water supply schemes and
+also for the collection and disposal of the waste water in the State of Kerala. KWA
+is also tasked with establishing globally accepted Standards in water supply and
+sewage.
+The Public works department is responsible for design, implementation and
+maintenance of civil structures owned by the government viz; government
+buildings, government owned hospitals (part of the public health system), roads,
+bridges etc.
+The Greater Cochin Development Authority is the planning and development
+Authority of the Metropolitan area of Cochin, which is the urban hinterland of
+Cochin Port. The jurisdictional area of GCDA comprises of the Cochin City, the
+commercial capital of Kerala, 6 surrounding municipalities and 25 intervening
+panchayats covering an area of 632 sq.km. The major functions of GCDA are
+orderly and planned development of the Greater Cochin Region; coordinating
+with the various developmental agencies operating in Cochin region; preparing
+and implementing the perspective plan / master plan / detailed town planning
+schemes/ projects etc; fixing priorities of development and choosing sectors for
+immediate improvement; taking up model schemes in different sectors of
+development such as residential development including construction of houses
+road improvement / new roads formation including construction of bridges,
+flyovers etc.
+Goshree Islands Development Authority (GIDA) is one of the two government
+agencies for the development of Kochi City Region, Kerala along with GCDA
+which serves entire Cochin Corporation and surrounding municipalities around
+the region. GIDA's main purpose, as the name suggests to develop the
+infrastructure facilities of scattered islands in and around the Kochi city.
+
+74
+No of elected representatives
+
+Election Details*
+Election cycle, last election,
+Name, party affiliation where relevant, date office taken
+for: chief minister, commissioner, and mayor.
+
+Mr. Oommen Chandy from Indian National Congress is the Chief
+Minister of Kerala . He was elected on 18-May 2011. The Corporation
+Secretary is Mr. V. R. Raju. The council is headed by Mayor Mrs.
+Soumini Jain of INC, elected on Nov 2015.The municipal elections were
+held in the year 2015.
+
+Source:*Respective ULB website and Media Search
+
+5. Performance of Urban Local Body (ULB)
+Credit and Tax
+Credit Rating of ULBs (As on Nov 2012)*
+Property Tax #
+
+BBBCoverage (%): 90
+Collection Efficiency (%): 86
+Amount(Rs.):Rs. 56.50 crore (2013-14)
+
+Source: # Reform Appraisal Report, JNNURM, Ministry of Urban Development, Government of India
+
+E-governance& Computerization in ULB
+Reform
+Property Tax*
+Accounting*
+Water Supply & Other Utilities*
+Birth & Death Registration and Health programmes*
+Citizens' Grievance Monitoring*
+Personnel Management System*
+Building Plan Approval*
+e-Procurement*
+Can Citizens pay their bills and Taxes at citizen
+#
+facilitation centre (CFC)?
+#
+Does ULB has facility to Accept Online Payments
+#
+What is the E-mail Software being used in the ULB
+
+Status (implemented, in progress and any comment)
+Implemented
+Implemented
+Implemented
+Implemented
+Implemented
+Implemented
+Implemented
+Implemented
+Only on CFC
+No
+NIC
+
+3
+
+India Smart City Profile
+
+Are ULB offices connected with each other through local
+#
+area network (LAN)/ wide area network (WAN)
+#
+Do you have access to State Data Centre (SDC)?
+#
+Does the ULB have their own website
+#
+Implementation of 74th CAA
+
+Yes
+No
+Yes
+3 functions are yet to be transferred. They are fire services; urban forestry,
+protection of environment and ecology; Water supply- domestic, industrial and
+commercial.
+
+Note :* Modules of e-governance implemented in ULB
+Source :http://www.corporationofcochin.net/
+* Reform Appraisal Report, JNNURM, Ministry of Urban Development, Government of India and respective ULB's website
+#Information and Services Need Assessment (ISNA) Study for Urban Local Bodies, Ministry of Urban Development, Government of India, 2012
+
+Recognition
+List any national or international recognition such as
+awards, pilots, horizontal networks.
+
+• ACCCRN project
+
+6. Finance & Health
+Financial
+Indicator
+% of households with access to banking facilities *
+
+City (Municipal
+Corporation)
+82.74
+
+State (Urban)
+
+India (Urban)
+
+74.68
+
+67.77
+
+#
+
+Financial Status
+Details of municipal income and expenditure
+(Rs. Lakhs)
+2009-10
+2010-11
+2011-12
+% of municipal Budget reserved for urban poor@
+
+Income
+
+Expenditure
+
+1651.70
+1235.40
+1093.40
+25
+
+1434.50
+965.80
+809.30
+
+Source: * Tables of Houses, Household Amenities and Assets, Census of India, 2011
+#
+Information and Services Need Assessment (ISNA) Study for Urban Local Bodies, Ministry of Urban Development, Government of India, 2012
+@
+Reform Appraisal Report, JNNURM, Ministry of Urban Development, Government of India
+
+Environmental
+Swatch Bharat ranking *
+Comprehensive Environmental Assessment for available
+#
+cities
+
+75.08
+
+Source: *Press Information Bureau , Ministry of Urban Development, Government of India, 2015
+#
+Central Pollution Control Board, Ministry of Environment and Forests, Government of India, 2009
+
+7. Capacity: Track Record & Initiatives
+JNNURM Projects
+
+Status or Comment
+
+BSUP/IHSDP
+
+Under BSUP scheme, total 3 projects of housing were sanctioned under BSUP of which
+none of the projects have been completed. The total project cost was Rs 124.04 crores.
+Construction of 83% of the dwelling unit is complete.
+UIG: Total 6 projects were approved initially and 1 heritage project got canceled. Total 5
+projects are under progress.
+
+UIG/UIDSSMT
+
+Total Approved Cost of projects (Rs.Lakhs)
+Sectorwise details of projects
+
+Share of Central Assistance released (%)
+% of work completed (Physical Progress)
+
+48712.00
+Sector
+
+No of Projects
+
+Water
+Drainage/SWD
+Sewarage
+SWM
+Transport
+48.57
+49
+
+1
+1
+1
+1
+1
+
+Total Cost (Rs
+Lakhs)
+20117
+978
+7841
+8812
+10964
+
+Share of sector in total
+projects approved
+41.3
+2.0
+16.1
+18.1
+22.5
+
+4
+
+India Smart City Profile
+
+Funds Utilised (%)
+
+48.91
+
+Source: www.jnnurm.nic.in (accessed on November, 2015)
+
+Alignment with MoUD Schemes
+Heritage City Development and Augmentation Yojana
+(HRIDAY)
+AMRUT
+JNNURM
+
+Status, Comment
+
+City is covered under AMRUT Mission. The State Annual Action Plan has
+been submitted.
+City was covered under UIG component of JNNURM
+
+NUIS
+North Eastern Region Urban Development Programme
+(NERUDP)
+Source: Ministry of Urban Development, Government of India
+
+5
+
+

@@ -1,0 +1,578 @@
+India Smart City Profile
+
+City: Chennai (M.Corp)
+State: Tamil Nadu
+Category: Capital, Tier 1
+Chennai is the state capital of Tamil Nadu, and India’s fourth largest city, by economy and population. The city has a diverse array of economic
+sectors and is known for its automobile industry historically and rich IT sector. It is at one end of the important, 350 km Bangalore-Chennai
+industrial corridor project.
+
+1. Demographic Profile
+Indicator
+Total Population
+Total Population of UA (if)
+Share of ULB population in District Urban population (%)
+Population Growth Rate (AEGR) 2001-11
+Area (sq. km)*
+#
+Share of ULB area in district (%)*
+Density of population (person per sq. km)*
+Literacy Rate (%)
+Schedule Caste (%)
+Schedule Tribes (%)
+Youth, 15 - 24 years (%)
+Slum Population (%)
+Working Age Group, 15-59 years (%)
+
+City (Municipal
+Corporation)
+4646732
+8653521
+100.00
+0.67
+175
+100.00
+26553
+90.18
+16.78
+0.22
+17.17
+28.89
+68.52
+
+State (Urban)
+
+India (Urban)
+
+34917440
+
+377,106,125
+
+2.39
+
+2.76
+
+87.04
+14.21
+0.38
+17.12
+23.15
+67.23
+
+84.11
+12.60
+2.77
+19.68
+17.36
+65.27
+
+City (Municipal
+Corporation)
+57706
+2.34
+2.32
+40.54
+
+State (Urban)
+
+India (Urban)
+
+53507
+6.6
+2.7
+39.2
+
+Rs. 35, 947
+13.7
+3.4
+35.5
+
+25.54
+65.79
+8.66
+
+34.3
+43.2
+22.5
+
+42.0
+43.4
+14.6
+
+1.33
+27.24
+71.43
+
+11.2
+37.3
+51.5
+
+7.5
+34.2
+58.3
+
+18.71
+13.27
+9.64
+3.28
+10.62
+1.19
+16.45
+12.98
+13.87
+0.00
+Readymade Garments
+Leather Goods
+Automobile Components
+
+13.5
+7.4
+6.4
+3.9
+12.4
+5.0
+26.1
+10.1
+15.1
+0
+
+15.8
+8.8
+6.7
+5.0
+14.7
+4.6
+19.2
+9.2
+16.1
+0.1
+
+Source: Census of India, 2011
+* District Census Handbook, Census of India, 2011
+#
+The ULB is spread in more than one district
+
+2. Economic Profile
+Indicator
+Per Capita Income (Rs.) at 2004-05 constant price *
+Urban Poverty Ratio (% of urban population)**
+Unemployment Rate, 2011-12***
+Work Participation Rate, 2011-12***
+Work Status, 2011-12 (%) ***
+Self-employed:
+Regular/wage salaried employees:
+Casual labour:
+Sectoral Distribution of Workers, 2011-12 (%) ***
+Primary
+Secondary
+Tertiary
+Workers Classified by Major Occupation, 2011-12(%)
+***
+Legislators, senior officials and managers
+Professionals
+Technicians and associate professionals
+Clerks
+Service workers and shop and market sales workers
+Skilled agricultural and fishery workers
+Craft and related trades workers
+Plant and machine operators and assemblers
+Elementary occupations
+Workers not classified by occupation
+#
+Primary Commodity Manufactured
+
+a
+
+1
+
+India Smart City Profile
+##
+
+Major Industries
+
+No. of sanctioned SEZ
+
+Metallic - Automobile,
+Bicycle and its parts
+Machinery, Machine tools
+and its parts
+Non-metallic - Leather
+Products
+Readymade Garments
+12
+
+56
+
+413
+
+Note: 3 year average of 2009-10, 2010-11 and 2011-12
+Source: * Directorate of Economics and Statistics of respective State Governments and for all India- Central Statistics Office
+**Unit Level Data of National Sample Survey Organization, Household Consumer Expenditure in India, 68th Round, 2011-12
+***Unit Level Data of National Sample Survey Organization, Employment and Unemployment Situation in India, 68th Round, 2011-12
+#
+District Census Handbook, Census of India, 2011
+##
+District Industrial Profile, Micro, Small and Medium Enterprises, Government of India
+∞ Department of Commerce, Ministry of Commerce and Industry
+
+3. Infrastructure Status
+Indicator
+% of households with access to tap water (from
+treated source) within Premises
+% of households with access to electricity
+% of households having toilet facilities within
+premises
+% of household Waste water outlet connected to
+drainage
+Type of sewerage system*
+Type of solid Waste system*
+% of households with access to computer/laptop
+with internet
+without internet
+% of households with access to mobile phones
+Ownership Pattern of Housing (%)
+Owned
+Rented
+% of households living in congested houses
+Indicator
+No. of Hospitals per 1,00,000 people *
+No of Schools per 1,00,000 people
+Primary
+Middle
+Secondary
+College
+
+City (Municipal
+Corporation)
+84.08
+
+State (Urban)
+
+India (Urban)
+
+66.29
+
+84.14
+
+99.08
+94.57
+
+96.11
+66.48
+
+92.68
+72.57
+
+97.27
+
+74.94
+
+81.77
+
+7.55
+9.25
+67.26
+
+8.27
+10.40
+64.33
+
+47.22
+57.45
+51.14
+40.21
+39.96
+38.91
+City (Municipal Corporation)
+1
+
+69.16
+27.55
+32.94
+
+Under ground sewerage
+system
+Door to Door
+19.64
+12.51
+62.25
+
+28
+19
+24
+2
+
+Source: Tables of Houses, Household Amenities and Assets, Census of India, 2011
+* District Census Handbook, Census of India, 2011
+
+4. Political Profile: Leadership and Administrative Structure
+Architecture of Governance
+Structure of Elected and Executive Bodies. Give
+indication of hierarchies
+
+The Corporation of Chennai (previously Madras) is the oldest municipal
+institution in India established on the 29th September 1688. It comprises an
+administrative and an executive wing. The head of the administrative wing
+is the Corporation Commissioner, appointed by the State Governor. The
+executive wing is headed by the Mayor who along with the Deputy Mayor is
+a political appointee. The executive wing governs six standing committees.
+These are six standing Committees for Accounts, Education, Public
+Health, Town Planning Works, Taxation & Finance besides one
+Appointment Committee in addition to the Ward Committees for each Zone.
+The administrative wing headed by the Commissioner is assisted by
+Additional Commissioners, Joint Commissioners, Regional Deputy
+Commissioners, Deputy Commissioners various Heads of Departments
+and 15 Circle Officers at present.
+2
+
+India Smart City Profile
+
+The municipal affairs of the city are managed by the Corporation of
+Chennai, which deals exclusively with the city jurisdiction, and the Chennai
+Metropolitan Development Authority (CMDA), which also deals with the
+wider Chennai Metropolitan Area (CMA). The Chennai Metropolitan Area
+(CMA) comprises the city of Chennai, 16 Municipalities, 20 Town
+Panchayats and 214 Village Panchayats in 10 Panchayat Unions. The
+extent of CMA is 1189 Sq.km. The major functions of CMDA is to prepare
+a Master Plan or Detailed Development Plan or New Town development
+Plan as the case may be for the Chennai Metropolitan planning Area; to
+prepare an existing land use map.
+Chennai Metrowater known as CMWSSB is responsible for water supply
+and sewerage treatment.
+The Tamil Nadu Pollution Control Board (TNPCB) is responsible for
+environmental protection and enforcement of rulings related to the same,
+passed by competent authorities.
+The Tamil Nadu Slum Clearance Board (TNSCB) develops improvement
+schemes for notified/regularized slum settlements in the city/town.
+No of elected representatives
+Election Details*
+Election cycle, last election,
+Name, party affiliation where relevant, date office taken
+for: chief minister, commissioner, and mayor.
+
+Ms. J. Jayalalithaa from All India Anna Dravida Munnetra Kazhagam is the Chief
+Minister of Tamil Nadu. She was elected on 23-May 2015. The Commissioner is
+Mr. Vikram Kapur. The council is headed by Mayor Saidai Duraisamy of AIADMK,
+elected in Dec 2011.The municipal elections were held in the year 2011.
+
+Source:*Respective ULB website and Media Search
+
+5. Performance of Urban Local Body (ULB)
+Credit and Tax
+Credit Rating of ULBs (As on Nov 2012)*
+Property Tax #
+
+BBB+
+Coverage (%): 85%
+Collection Efficiency (%): 90%
+Amount(Rs.): Rs. 495.18 crore (2013-14)
+
+Source: *www.jnnurm.nic.in
+#
+Reform Appraisal Report, JNNURM, Ministry of Urban Development, Government of India
+
+E-governance& Computerization in ULB
+Reform
+Property Tax*
+Accounting*
+Water Supply & Other Utilities*
+Birth & Death Registration and Health programmes*
+Citizens' Grievance Monitoring*
+Personnel Management System*
+Building Plan Approval*
+e-Procurement*
+Can Citizens pay their bills and Taxes at citizen
+#
+facilitation centre (CFC)?
+#
+Does ULB has facility to Accept Online Payments
+#
+What is the E-mail Software being used in the ULB
+Are ULB offices connected with each other through local
+#
+area network (LAN)/ wide area network (WAN)
+#
+Do you have access to State Data Centre (SDC)?
+#
+Does the ULB have their own website
+#
+Implementation of 74th CAA
+
+Status (implemented, in progress and any comment)
+Implemented
+Implemented
+Implemented
+Implemented
+Implemented
+Implemented
+Implemented
+Implemented
+Only on CFC
+Yes
+NIC
+Yes
+No
+Yes
+Only 1 function is to be transferred i.e fire services
+
+Note :* Modules of e-governance implemented in ULB
+Source: * Reform Appraisal Report, JNNURM, Ministry of Urban Development, Government of India and respective ULB's website
+#Information and Services Need Assessment (ISNA) Study for Urban Local Bodies, Ministry of Urban Development, Government of India, 2012
+
+Recognition
+List any national or international recognition such as
+awards, pilots, horizontal networks.
+
+• Rockefeller 100 Resilient Cities
+• India Today Best City Awards: Top overall, Top in transport category; Top in
+Education
+
+3
+
+India Smart City Profile
+
+6. Finance and Health
+Financial
+Indicator
+% of households with access to banking facilities *
+
+City (Municipal
+Corporation)
+71.12
+
+State (Urban)
+
+India (Urban)
+
+60.37
+
+67.77
+
+#
+
+Financial Status
+Details of municipal income and expenditure
+(Rs. Lakhs)
+2009-10
+2010-11
+2011-12
+% of municipal Budget reserved for urban poor@
+
+Income
+
+Expenditure
+
+94004.14
+102258.00
+136838.00
+25%
+
+82218.50
+99737.70
+85623.00
+
+Source: * Tables of Houses, Household Amenities and Assets, Census of India, 2011
+#
+Information and Services Need Assessment (ISNA) Study for Urban Local Bodies, Ministry of Urban Development, Government of India, 2012
+@
+Reform Appraisal Report, JNNURM, Ministry of Urban Development, Government of India
+
+Environmental
+Swatch Bharat ranking *
+Comprehensive Environmental Assessment for available
+#
+cities
+
+61
+
+Source: *Press Information Bureau , Ministry of Urban Development, Government of India, 2015
+#
+Central Pollution Control Board, Ministry of Environment and Forests, Government of India, 2009
+
+7. Capacity: Track Record & Initiatives
+JNNURM Projects
+
+Status or Comment
+
+BSUP/IHSDP
+
+Under BSUP scheme, initially total 24 projects were sanctioned out of which 1
+project has been cancelled. Out of 23 projects (3 of infrastructure and 20 of
+housing) 6 housing projects are completed. The total project cost was
+Rs.1380.27 crores. The share of housing projects are 95% (Rs. 1305.01 crores)
+and share of infrastructure projects are 5% (Rs.75.26 crores). Total 14 housing
+projects and 3 infrastructure projects are under progress. Construction of 95% of
+the dwelling unit is complete.
+UIG: Total 56 projects have been approved out of which 5 projects have been
+cancelled. Total 16 projects have been completed, 19 projects are under
+progress and total 17 projects have not been initiated.
+388301.58
+Sector
+No of Projects
+Total Cost (Rs
+Share of sector in total
+Lakhs)
+projects approved
+Water
+24
+134815.8
+34.7
+Drainage/SWD
+4
+133688.6
+34.4
+Sewerage
+16
+98664.81
+25.4
+SWM
+2
+8068.83
+2.1
+Transport
+3
+8276.6
+2.1
+Heritage
+1
+610
+0.2
+1
+4177
+1.1
+79.45
+40
+61.68
+
+UIG/UIDSSMT
+Total Approved Cost of projects (Rs.Lakhs)
+Sectorwise details of projects
+
+Share of Central Assistance released (%)
+% of work completed (Physical Progress)
+Funds Utilised (%)
+Source: www.jnnurm.nic.in (accessed on November, 2015)
+
+Alignment with MoUD Schemes
+Heritage City Development and Augmentation Yojana
+(HRIDAY)
+AMRUT
+JNNURM
+NUIS
+
+Status, Comment
+City is covered under AMRUT Mission. The State Annual Action Plan has been
+submitted.
+City was covered under UIG component of JNNURM
+
+4
+
+India Smart City Profile
+
+North Eastern Region Urban Development Programme
+(NERUDP)
+Source: Ministry of Urban Development, Government of India
+
+5
+
+

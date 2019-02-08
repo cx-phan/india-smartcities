@@ -90,7 +90,7 @@ Source:Census of India, 2011
 * District Census Handbook, Census of India, 2011
 " The ULB is spread in more than one district
 
-2. Economic Proﬁle
+2. Economic Profile
 
  
 
@@ -197,7 +197,7 @@ Craft and related trades workers 12.95 14.4 19.2
 Plant and machine operators and 11.77 9.2
 assemblers 10.2
 Elementary occupations 9.52 16.4 16.1
-Workers not classiﬁed by occupation 0 0 0.1
+Workers not classified by occupation 0 0 0.1
 Primary Commodity Manufactured” 1. Automobile engineering
 
 2. Softwares
@@ -320,7 +320,7 @@ Source: Tables of Houses, Household Amenities and Assets, Census of India, 2011
 
 * District Census Handbook, Census of India, 2011
 
-4. Political Proﬁle: Leadership and Administrative Structure
+4. Political Profile: Leadership and Administrative Structure
 
  
 
@@ -374,8 +374,8 @@ No of elected representatives
 Election Details*
 
 Election cycle, last election,
-Name, party afﬁliation Where
-relevant, date ofﬁce taken for:
+Name, party affiliation Where
+relevant, date office taken for:
 chiefminister, commissioner, and
 mayor.
 
@@ -407,7 +407,7 @@ AA-
 Pro pe rty TaX ~
 
 Coverage (%): NA
-Collection Efﬁciency (%): NA
+Collection Efficiency (%): NA
 Amount(Rs.):
 
  

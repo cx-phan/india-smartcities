@@ -3,25 +3,31 @@ import sys
 import re 
 
 def industry(data):
-	print "==== INDUSTRY ==== "
+	print "==== CITY INDUSTRY ==== "
 
 	industry = {} 
+	industry_stat = {}
 	industry['legislators'] = "Legislators, senior officials and managers ([0-9.]+)"
 	industry['professionals'] = "Professionals ([0-9.]+)"
 	industry['technicians'] = "Technicians and associate professionals ([0-9.]+)"
 	industry['clerks'] = "Clerks ([0-9.]+)"
-	industry['service'] = "Service workers and shop and market sales workers ([0-9.]+)"
+	industry['service'] = "Service workers and shop and market sales [workers ]*([0-9.]+)"
 	industry['agriculture'] = "Skilled agricultural and fishery workers ([0-9.]+)"
 	industry['craft'] = "Craft and related trades workers ([0-9.]+)"
 	industry['machine-operators'] = "Plant and machine operators and assemblers ([0-9.]+)"
 
 	for key in industry.keys(): 
 		pattern = industry[key]
-		print key, re.findall(pattern, data)
+
+		temp = re.findall(pattern, data)
+		if len(temp) > 0:
+			industry_stat[key] = temp[0]
+
+		print key, temp
 
 # employment statistics 
 def employmentstats(data):
-	print "==== EMPLOYMENT ===="
+	print "==== CITY EMPLOYMENT ===="
 	employment = {}
 
 	employment['per_capita'] = "Per Capita Income \(Rs\) at 2004-05 \D*([0-9]+)"
@@ -61,13 +67,16 @@ def citystats(data):
 
 	for key in city_text.keys():
 		pattern = city_text[key]
-		city_stat[key] = re.findall(pattern, data)
-		print key, city_stat[key]
+		temp = re.findall(pattern, data)
+		if len(temp) > 0: 
+			city_stat[key] = temp[0]
+
+		print key, temp
 
 	# print population
 	
 def city(data):
-	print "==== CITY ===="
+	print "==== CITY STATISTICS ===== "
 	city_search = "City: (\w+)\nState: (\w+)"
 	category_tier_search = "Category: ([.\s\S]+?), Tier ([0-9])\n"
 	city, state = re.findall(city_search, data)[0]
@@ -82,9 +91,10 @@ def main():
 	with open(filename, "r") as myfile:
   		data = myfile.read().decode("utf-8")
 
+  	city(data)
   	citystats(data)
-  	employmentstats(data)
-  	industry(data)
+  	# employmentstats(data)
+  	# industry(data)
 	
 if __name__ == "__main__":
     main()

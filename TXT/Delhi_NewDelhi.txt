@@ -1,0 +1,575 @@
+India Smart City Profile
+
+City: Delhi
+State: New Delhi
+Category: Capital, Tier 1
+The New Delhi Municipal Council (NDMC) is one of three statutory urban regions within the state of Delhi, the other two being the
+Municipal Corporation of Delhi (MCD) and the Delhi Cantonment Board (DCB). The NDMC lies within the urban agglomeration of Delhi
+Metropolitan and since the urban region is part of the National Capital Region, it is jointly governed by local municipal as well as the
+state and federal governments. The area within the NDMC covers central parts of Delhi which were planned and developed by British
+architect Sir Edwin Lutyens as the British capital of India which was inaugurated in 1931. Today, this area remains the seat of
+government for the India, and continues to house government offices and diplomatic missions. Although New Delhi is the largest
+commercial centre in northern India, parts of the NDMC face considerable challenges with air pollution, traffic congestion, and
+densification.
+
+1. Demographic Profile
+Indicator
+Total Population
+Total Population of UA (if)
+Share of ULB population in District Urban population (%)
+Population Growth Rate (AEGR) 2001-11
+Area (sq. km)*
+#
+Share of ULB area in district (%)*
+Density of population (person per sq. km)*
+Literacy Rate (%)
+Schedule Caste (%)
+Schedule Tribes (%)
+Youth, 15 - 24 years (%)
+Slum Population (%)
+Working Age Group, 15-59 years (%)
+
+City (Municipal Council)
+257803
+16349831
+
+State (Urban)
+16368899
+
+India (Urban)
+377,106,125
+
+-1.59
+42.74
+#
+6032
+89.83
+19.24
+0.00
+21.88
+7.76
+73.53
+
+2.38
+
+2.76
+
+86.32
+16.68
+0.00
+20.42
+1.12
+65.95
+
+84.11
+12.60
+2.77
+19.68
+17.36
+65.27
+
+City (Municipal Council)
+112510
+0.87
+2.03
+37.30
+
+State (Urban)
+112510
+9.8
+3.5
+33.7
+
+India (Urban)
+a
+Rs. 35, 947
+13.7
+3.4
+35.5
+
+19.37
+77.14
+3.49
+
+34.8
+61.5
+3.7
+
+42.0
+43.4
+14.6
+
+0.00
+41.48
+58.52
+
+0.0
+26.8
+73.1
+
+7.5
+34.2
+58.3
+
+16.43
+0.00
+6.07
+12.08
+8.51
+0.00
+17.47
+24.95
+14.50
+
+24.9
+8.8
+7.5
+8.3
+11.6
+0.0
+15.9
+9.8
+13.0
+
+15.8
+8.8
+6.7
+5.0
+14.7
+4.6
+19.2
+9.2
+16.1
+
+Source: Census of India, 2011
+* District Census Handbook, Census of India, 2011
+#
+The ULB is spread in more than one district
+
+2. Economic Profile
+Indicator
+Per Capita Income (Rs.) at 2004-05 constant price *
+Urban Poverty Ratio (% of urban population)**
+Unemployment Rate, 2011-12***
+Work Participation Rate, 2011-12***
+Work Status, 2011-12 (%) ***
+Self-employed:
+Regular/wage salaried employees:
+Casual labour:
+Sectoral Distribution of Workers, 2011-12 (%) ***
+Primary
+Secondary
+Tertiary
+Workers Classified by Major Occupation, 2011-12(%)
+***
+Legislators, senior officials and managers
+Professionals
+Technicians and associate professionals
+Clerks
+Service workers and shop and market sales workers
+Skilled agricultural and fishery workers
+Craft and related trades workers
+Plant and machine operators and assemblers
+Elementary occupations
+
+1
+
+India Smart City Profile
+
+Workers not classified by occupation
+#
+Primary Commodity Manufactured
+##
+Major Industries
+
+No. of sanctioned SEZ
+
+0.00
+NA
+Metallic – Other products
+of Aluminium & Brass,
+Copper, Iron & Steel
+Automobiles, bicycle and
+its parts
+Non Metallic –
+Knowledge based
+Industries ( Research &
+Development Centres,
+Private Universities)
+Rubber, Plastic and petro
+based
+1
+
+0.2
+
+0.1
+
+3
+
+413
+
+Note: 3 years average of 2011-12, 2012-13, 2013-14
+Source: * Directorate of Economics and Statistics of respective State Governments and for all India- Central Statistics Office
+**Unit Level Data of National Sample Survey Organization, Household Consumer Expenditure in India, 68th Round, 2011-12
+***Unit Level Data of National Sample Survey Organization, Employment and Unemployment Situation in India, 68th Round, 2011-12
+#
+District Census Handbook, Census of India, 2011
+##
+District Industrial Profile, Micro, Small and Medium Enterprises, Government of India
+∞ Department of Commerce, Ministry of Commerce and Industry
+
+3. Infrastructure Status
+Indicator
+% of households with access to tap water (from
+treated source) within Premises
+% of households with access to electricity
+% of households having toilet facilities within
+premises
+% of household Waste water outlet connected to
+drainage
+Type of sewerage system*
+Type of solid Waste system*
+% of households with access to computer/laptop
+with internet
+without internet
+% of households with access to mobile phones
+Ownership Pattern of Housing (%)
+Owned
+Rented
+% of households living in congested houses
+Indicator
+No. of Hospitals per 1,00,000 people *
+No of Schools per 1,00,000 people
+Primary
+Middle
+Secondary
+College
+
+City (Municipal Council)
+98.10
+
+State (Urban)
+75.81
+
+India (Urban)
+
+98.82
+85.03
+
+99.14
+86.05
+
+92.68
+72.57
+
+97.06
+
+96.04
+
+81.77
+
+27.74
+16.48
+62.65
+
+17.95
+11.56
+68.13
+
+8.27
+10.40
+
+12.08
+68.25
+
+67.90
+28.49
+
+69.16
+27.55
+
+36.68
+
+30.87
+
+32.94
+
+84.14
+
+Underground sewerage
+system
+Door to Door
+
+64.33
+
+City (Municipal Council)
+
+Source: Tables of Houses, Household Amenities and Assets, Census of India, 2011
+* District Census Handbook, Census of India, 2011
+
+4. Political Profile: Leadership and Administrative Structure
+Architecture of
+Governance
+Structure of Elected
+and Executive
+Bodies. Give
+indication of
+
+The institutional framework for urban management in Delhi has a multiplicity of agencies, both central and state.
+They also look after various functions relating to urban infrastructure and its management. The New Delhi Municipal
+Council is one of the 5 Urban local bodies in National Capital Territory (NCT) of Delhi. The Central Government has
+retained most of the controlling powers over the NDMC, except that the Government of NCT of Delhi can also
+prescribe discretionary functions for the committee through general or specific orders. The GNCTD can also get the
+accounts of the committee audited. The Chairman who is the executive head of NDMC is appointed by the Central
+
+2
+
+India Smart City Profile
+
+hierarchies
+
+Government, in consultation with the Chief Minister of the NCT. The NDMC is responsible for providing basic civic
+amenities. It also ensures various social, cultural, educational and medical facilities, especially to the government/
+municipal employees and other weaker sections of society. It is perhaps the only municipality in the country that
+supplies electricity and water and its discretionary functions encompass promotion of sports, art, music and culture,
+maintenance of libraries, and care for the old, mentally and hearing impaired. It takes care of working women,
+housing problems and social facilities like barat ghars and community centers.
+The Delhi Development authority (DDA), a body corporate, has been set up in 1957. The functions and powers of
+the DDA is to formulate a master plan for covering the present and future growth of Delhi; preparing schemes and
+advising the concerned authorities departments and agencies in formulating and undertaking schemes for
+development agriculture, horticulture, floriculture, forestry, transport, communication, schooling, etc; institutional &
+industrial development as part of city building, to acquire, hold, manage and dispose of property; acquire land for
+public purpose under the provisions of land acquisition act 1984.
+The Central Pollution Control Board (CPCB) looks at the compliance at the national level, monitoring of water quality
+of the river Yamuna and discharging drains at various locations. The Delhi pollution Control Committee (DPCC), in
+effect is the primary agency in the NCT, to carry out the regulatory work relating to prevention and control of water
+and air pollution in Delhi.
+Delhi Urban Art Commission (DUAC) has been set up in 1974, to advise the Central Government and provide
+advice and guidance to the local bodies, for maintaining the aesthetic quality of urban and environmental design in
+Delhi. The local bodies are require to refer all building and engineering operations and development proposals to the
+Commission, before according approval to them.
+National Capital Region (NCR) is a unique example of inter-state regional development planning for a region, having
+a total area of over 33500 sq. kms. spanning over 15 districts in the 3 states of U.P, Haryana, and Rajasthan and
+National Capital Territory of Delhi, with the Nation Capital as its core. The National Capital Region (NCR) in India
+was constituted with the key rationale to promote balanced and harmonized development of the region, and to
+control haphazard and unplanned urban growth by channelizing the flow and direction of economic growth along
+more balanced and spatially-oriented paths.
+National Capital Region Planning Board (NCRPB) is responsible for preparation of Regional Plan and Functional
+Plans; Coordinating the enforcement & implementation of the Plans through the, participating States; review the
+implementation of the Regional Plan, Functional Plan, Sub-Regional Plan and Project Plan.
+
+No of elected
+representatives
+Election Details*
+Election cycle, last
+election,
+Name, party affiliation
+where relevant, date
+office taken for: chief
+minister,
+commissioner, and
+mayor.
+
+The Delhi Jal Board (DJB) is responsible for procurement of raw water, treatment and responsible for distribution of
+water supply and related works. Generation and supplying of filtered water to NDMC is the responsibility of Delhi Jal
+Board. NDMC is getting bulk supply from Delhi Jal Board from numbers of reservoirs. Since Delhi Jal Board is not
+able to supply adequate quantity of filtered water in required pressure to NDMC, so to meet the short fall, NDMC has
+provided 100 tube wells and 700 deep well hand pumps. DJB is also responsible to collect, transmit, treatment and
+disposal of waste water and for operation & maintenance of sewer system.
+NA
+Mr Arvind Kejriwal from Aam Adami Party is the Chief Minister of Delhi . He was elected on 14-Feb-2015. The
+Commissioner is Mr. Naresh Kumar since June 2015.
+
+Source:*Respective ULB website and Media Search
+
+5. Performance of Urban Local Body (ULB)
+Credit and Tax
+Credit Rating of ULBs (As on Nov 2012)*
+Property Tax #
+
+AA
+Coverage (%): Above 85
+Collection Efficiency (%): 82
+Amount(Rs.):Rs. 300.00 crore (2013-14)
+
+Source: *www.jnnurm.nic.in
+3
+
+India Smart City Profile
+#
+
+Reform Appraisal Report, JNNURM, Ministry of Urban Development, Government of India
+
+E-governance& Computerization in ULB
+Reform
+Property Tax*
+Accounting*
+Water Supply & Other Utilities*
+Birth & Death Registration and Health programmes*
+Citizens' Grievance Monitoring*
+Personnel Management System*
+Building Plan Approval*
+e-Procurement*
+Can Citizens pay their bills and Taxes at citizen
+#
+facilitation centre (CFC)?
+#
+Does ULB has facility to Accept Online Payments
+#
+What is the E-mail Software being used in the ULB
+Are ULB offices connected with each other through local
+#
+area network (LAN)/ wide area network (WAN)
+#
+Do you have access to State Data Centre (SDC)?
+#
+Does the ULB have their own website
+#
+Implementation of 74th CAA
+
+Status (implemented, in progress and any comment)
+Implemented
+Implemented
+Implemented
+Implemented
+Implemented
+Implemented
+Implemented
+Implemented
+Only on CFC
+Yes
+NIC
+Yes
+No
+Yes
+
+5 functions are yet to be transferred. slum improvement and up gradation,
+urban poverty alleviation, burials and burial grounds, cremations, cremation
+grounds and electric crematoriums, cattle pounds, prevention of cruelty to
+animals, regulation of slaughter houses and tanneries
+
+Note :* Modules of e-governance implemented in ULB
+Source: https://www.ndmc.gov.in
+* Reform Appraisal Report, JNNURM, Ministry of Urban Development, Government of India and respective ULB's website
+#Information and Services Need Assessment (ISNA) Study for Urban Local Bodies, Ministry of Urban Development, Government of India, 2012
+
+Recognition
+List any national or international recognition such as
+awards, pilots, horizontal networks.
+
+• Skoch Awards for Excellence –Gold 2014
+• JNNURM Awards for Excellence: Best Transit Project (2008)
+
+6. Finance & Health
+Financial
+Indicator
+% of households with access to banking facilities *
+
+City (Municipal Council)
+88.63
+
+State (Urban)
+77.79
+
+India (Urban)
+67.77
+
+#
+
+Financial Status
+Details of municipal income and expenditure
+(Rs. Lakhs)
+2009-10
+2010-11
+2011-12
+% of municipal Budget reserved for urban poor@
+
+Income
+
+Expenditure
+
+194461.11
+169119.08
+137719.74
+
+193570.26
+152336.47
+130055.91
+
+Source: * Tables of Houses, Household Amenities and Assets, Census of India, 2011
+#
+Information and Services Need Assessment (ISNA) Study for Urban Local Bodies, Ministry of Urban Development, Government of India, 2012
+@
+Reform Appraisal Report, JNNURM, Ministry of Urban Development, Government of India
+
+Environmental
+Swatch Bharat ranking *
+Comprehensive Environmental Assessment for available
+#
+cities
+
+16
+
+Source: *Press Information Bureau , Ministry of Urban Development, Government of India, 2015
+#
+Central Pollution Control Board, Ministry of Environment and Forests, Government of India, 2009
+
+4
+
+India Smart City Profile
+
+7. Capacity: Track Record & Initiatives
+JNNURM Projects
+
+Status or Comment
+
+BSUP/IHSDP
+UIG/UIDSSMT
+Total Approved Cost of projects (Rs.Lakhs)
+Sectorwise details of projects
+
+NA
+NA
+NA
+Sector
+
+No of Projects
+
+Total Cost (Rs
+Lakhs)
+
+Share of sector in total
+projects approved
+
+NA
+
+Share of Central Assistance released (%)
+% of work completed (Physical Progress)
+Funds Utilised (%)
+
+NA
+NA
+NA
+
+Source: www.jnnurm.nic.in (accessed on November, 2015)
+
+Alignment with MoUD Schemes
+Heritage City Development and Augmentation Yojana
+(HRIDAY)
+AMRUT
+JNNURM
+NUIS
+North Eastern Region Urban Development Programme
+(NERUDP)
+
+Status, Comment
+
+City is covered under AMRUT Mission. The State Annual Action Plan has been
+submitted.
+City was covered under UIG component of JNNURM
+
+Source: Ministry of Urban Development, Government of India
+
+5
+
+

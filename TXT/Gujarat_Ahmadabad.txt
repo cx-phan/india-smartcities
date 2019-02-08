@@ -1,0 +1,675 @@
+India Smart City Profile
+
+City: Ahmadabad
+State: Gujarat
+Category: Business & Industry, Tier 2
+Ahmedabad is the largest city in Gujarat, and the administrative capital of Ahmedabad district. It serves as the seat of Gujarat High Court and is the
+seventh largest metropolitan area in India. Ahmedabad is an important economic and industrial hub and is reported to be one of the fastest
+growing cities of the decade (Forbe’s 2010). Textile, pharmaceuticals and automobile are the most prominent industries based in and around
+Ahmedabad. In addition, there has been significant advancement of the IT sector as well, as the many prestigious higher-education institutes in the
+city continue to attract a large pool of highly skilled young professionals. There are currently four SEZ’s in the city region, with another three new
+industrial estates in the planning, by the Gujarat Industrial Development Corporation (GIDC). In terms of transport infrastructure, Ahmedabad has a
+successful BRT system in operation, and a proposed metro-rail set to open in 2018.
+
+1. Demographic Profile
+Indicator
+
+City (Municipal
+Corporation)
+
+State (Urban)
+
+India (Urban)
+
+Total Population
+Total Population of UA (if)
+
+5577940
+6357693
+
+25745083
+
+377,106,125
+
+Share of ULB population in District Urban population (%)
+Population Growth Rate (AEGR) 2001-11
+
+92.00
+4.60
+
+3.07
+
+2.76
+
+Area (sq. km)*
+#
+Share of ULB area in district (%)*
+
+468.92
+5.78
+
+Density of population (person per sq. km)*
+Literacy Rate (%)
+
+11895
+88.29
+
+86.31
+
+84.11
+
+Schedule Caste (%)
+Schedule Tribes (%)
+
+10.66
+1.20
+
+6.96
+3.48
+
+12.60
+2.77
+
+Youth, 15 - 24 years (%)
+Slum Population (%)
+
+19.26
+4.49
+
+19.85
+14.92
+
+19.68
+17.36
+
+Working Age Group, 15-59 years (%)
+
+66.78
+
+66.31
+
+65.27
+
+Indicator
+
+City (Municipal
+Corporation)
+
+State (Urban)
+
+India (Urban)
+
+Per Capita Income (Rs.) at 2004-05 constant price *
+
+NA
+
+48301
+
+Rs. 35, 947
+
+Urban Poverty Ratio (% of urban population)**
+Unemployment Rate, 2011-12***
+
+6.64
+0.86
+
+10.2
+0.8
+
+13.7
+3.4
+
+Work Participation Rate, 2011-12***
+Work Status, 2011-12 (%) ***
+Self-employed:
+Regular/wage salaried employees:
+Casual labour:
+
+37.06
+
+38.4
+
+35.5
+
+50.56
+45.65
+3.80
+
+41.6
+49.6
+8.9
+
+42.0
+43.4
+14.6
+
+1.94
+47.76
+50.30
+
+4.8
+48.7
+46.4
+
+7.5
+34.2
+58.3
+
+15.93
+4.72
+
+15.7
+4.0
+
+15.8
+8.8
+
+Source: Census of India, 2011
+* District Census Handbook, Census of India, 2011
+#
+The ULB is spread in more than one district
+
+2. Economic Profile
+
+Sectoral Distribution of Workers, 2011-12 (%) ***
+Primary
+Secondary
+Tertiary
+Workers Classified by Major Occupation, 2011-12(%)
+***
+Legislators, senior officials and managers
+Professionals
+
+a
+
+1
+
+India Smart City Profile
+
+Technicians and associate professionals
+Clerks
+Service workers and shop and market sales workers
+Skilled agricultural and fishery workers
+Craft and related trades workers
+Plant and machine operators and assemblers
+Elementary occupations
+Workers not classified by occupation
+#
+Primary Commodity Manufactured
+
+##
+
+Major Industries
+
+No. of sanctioned SEZ
+
+6.39
+5.98
+17.25
+0.73
+22.32
+19.33
+7.36
+0.00
+Cotton Cloth
+Chemicals
+Medicines
+Automobile, Bicycle and
+its parts
+Machinery, Machine tools
+and its parts
+Textile
+Pharmaceuticals & bulk
+Drugs
+
+6.0
+4.2
+15.0
+2.5
+19.0
+19.6
+14.0
+0.0
+
+6.7
+5.0
+14.7
+4.6
+19.2
+9.2
+16.1
+0.1
+
+7
+
+38
+
+413
+
+Note: 3 year average of 2009-10, 2010-11 and 2011-12
+Source: * Directorate of Economics and Statistics of respective State Governments and for all India- Central Statistics Office
+**Unit Level Data of National Sample Survey Organization, Household Consumer Expenditure in India, 68th Round, 2011-12
+***Unit Level Data of National Sample Survey Organization, Employment and Unemployment Situation in India, 68th Round, 2011-12
+#
+District Census Handbook, Census of India, 2011
+##
+District Industrial Profile, Micro, Small and Medium Enterprises, Government of India
+∞ Department of Commerce, Ministry of Commerce and Industry
+
+3. Infrastructure Status
+Indicator
+
+City (Municipal
+Corporation)
+
+State (Urban)
+
+India (Urban)
+
+% of households with access to tap water (from
+treated source) within Premises
+% of households with access to electricity
+% of households having toilet facilities within
+premises
+% of household Waste water outlet connected to
+drainage
+Type of sewerage system*
+
+80.12
+
+68.78
+
+84.14
+
+98.56
+92.42
+
+97.19
+85.17
+
+92.68
+72.57
+
+93.10
+
+82.64
+
+81.77
+
+10.32
+11.41
+
+6.38
+9.25
+
+8.27
+10.40
+
+62.51
+
+65.92
+
+64.33
+
+77.39
+72.52
+20.57
+24.28
+36.42
+35.79
+City (Municipal Corporation)
+
+69.16
+27.55
+
+Type of solid Waste system*
+% of households with access to computer/laptop
+with internet
+without internet
+% of households with access to mobile phones
+Ownership Pattern of Housing (%)
+Owned
+Rented
+% of households living in congested houses
+Indicator
+No. of Hospitals per 1,00,000 people *
+
+Underground sewerage
+system
+Door to Door
+
+32.94
+
+0.09
+
+No of Schools per 1,00,000 people
+Primary
+
+24
+
+Middle
+Secondary
+
+NA
+9
+2
+
+India Smart City Profile
+
+College
+
+2
+
+Source: Tables of Houses, Household Amenities and Assets, Census of India, 2011
+* District Census Handbook, Census of India, 2011
+
+4. Political Profile: Leadership and Administrative Structure
+Architecture of Governance
+Structure of Elected and Executive Bodies. Give
+indication of hierarchies
+
+The Ahmedabad Municipal Corporation (AMC) is headed by a Municipal
+commissioner, appointed by the government of Gujarat. He is the administrative
+head. The city is at present divided into six zones namely, central, east, west,
+north, south and new west zone. Each zone is further split into nine wards. There
+are 64 wards. Each ward is represented by 3 Corporators. An election is held to
+elect Corporators to after every 5 years. The mayor heads the party with the
+largest number of Corporators elected.
+The AMC is responsible for certain obligatory and discretionary services such as
+supply of portable water, sewerage, solid waste management, primary education
+services, health and medical services, street lighting, construction or acquisition
+of public markets, slaughter houses, and cattle pounds, fire services etc. AMC
+has 58 city centers across the city to facilitate delivery of municipal services to its
+citizen.
+
+No of elected representatives
+Election Details*
+Election cycle, last election,
+Name, party affiliation where relevant, date office taken
+for: chief minister, commissioner, and mayor.
+
+The Water Operation (electrical and mechanical) Department looks after
+operation and maintenance of different water distribution stations and borewell
+located in different wards of the city. The main functions of the department are:
+water supply to the citizen, operation and maintenance (O&M) of water
+distribution stations, O&M of borewells, SITC work of electrical & mechanical
+equipments for new water distribution stations constructed by the water project
+department, construction of new bore wells, augmentation & energy efficiency
+works related to water distribution stations & bore wells, energy audit.
+The Ahmedabad Urban Development Authority (AUDA) is responsible for
+overseeing and sanctioning construction and infrastructure development across
+the suburbs of the city of Ahmadabad. The prime objective of the AUDA's
+formation was to carry out the planned development of the area failing outside
+the periphery of Ahmedabad Municipal Corporation. Recently the area of working
+of AUDA has been limited due to merger of 18 Gram Panchanyats of
+Ahmedabad district with the Ahmedabad Municipal Corporation. AUDA
+completed many works in the metro region of Ahmedabad. The development
+authority is coming up with a state-of-the-art office on Ashram Road, Ahmadabad.
+64
+Mrs. Anandiben Patel from Bharatiya Janata Party is the Chief Minister of
+Gujarat. She was elected on 22/05/2014. The Commissioner is Mrs. D. Thara
+since October 2014. The council is headed by Mayor Mrs. Meenaxi Patel of BJP,
+elected in May 2013. The municipal elections were held in the year 2015.
+
+Source:*Respective ULB website and Media Search
+
+5. Performance of Urban Local Body (ULB)
+Credit and Tax
+Credit Rating of ULBs (As on Nov 2012)*
+#
+Property Tax
+
+A+
+Coverage (%): 97%
+Collection Efficiency (%): 92%
+Amount(Rs.): Rs. 321.53 crore (2012-13)
+3
+
+India Smart City Profile
+Source: *www.jnnurm.nic.in
+#
+Reform Appraisal Report, JNNURM, Ministry of Urban Development, Government of India
+
+E-governance& Computerization in ULB
+Reform
+Property Tax*
+Accounting*
+
+Status (implemented, in progress and any comment)
+Implemented
+Implemented
+
+Water Supply & Other Utilities*
+Birth & Death Registration and Health programmes*
+
+Implemented
+Implemented
+
+Citizens' Grievance Monitoring*
+Personnel Management System*
+
+Implemented
+Implemented
+
+Building Plan Approval*
+e-Procurement*
+
+Implemented
+Implemented
+
+Can Citizens pay their bills and Taxes at citizen
+#
+facilitation centre (CFC)?
+#
+Does ULB has facility to Accept Online Payments
+
+Only on CFC
+#
+
+What is the E-mail Software being used in the ULB
+Are ULB offices connected with each other through local
+#
+area network (LAN)/ wide area network (WAN)
+#
+Do you have access to State Data Centre (SDC)?
+#
+Does the ULB have their own website
+#
+
+Implementation of 74th CAA
+
+Yes
+NIC
+Yes
+No
+Yes http://ahmedabadcity.gov.in/
+1 function is yet to be transferred. Urban forestry, protection of environment and
+ecology
+
+Note:* Modules of e-governance implemented in ULB
+Source: * Reform Appraisal Report, JNNURM, Ministry of Urban Development, Government of India and respective ULB's website
+#Information and Services Need Assessment (ISNA) Study for Urban Local Bodies, Ministry of Urban Development, Government of India, 2012
+
+Recognition
+List any national or international recognition such as
+awards, pilots, horizontal networks.
+
+•
+•
+•
+•
+•
+
+Member of ICLEI
+IUSF National Award for Innovations in servicing the needs of the Urban Poor
+UITP Finalist – Public Transport Strategy 2015
+Nagar Ratna Award – Best Run Organization, 2011
+UN-Habitat Dubai Best Practices Award 2006
+
+6. Finance & Health
+Financial
+Indicator
+% of households with access to banking facilities *
+
+City (Municipal
+Corporation)
+
+State (Urban)
+
+India (Urban)
+
+70.97
+
+66.09
+
+67.77
+
+#
+
+Financial Status
+Details of municipal income and expenditure
+(Rs. Lakhs)
+2009-10
+2010-11
+2011-12
+% of municipal Budget reserved for urban poor@
+
+Income
+
+Expenditure
+
+161600.00
+
+115500.00
+
+189900.00
+223900.00
+NA
+
+132200.00
+160600.00
+
+Source: * Tables of Houses, Household Amenities and Assets, Census of India, 2011
+#
+Information and Services Need Assessment (ISNA) Study for Urban Local Bodies, Ministry of Urban Development, Government of India, 2012
+@
+Reform Appraisal Report, JNNURM, Ministry of Urban Development, Government of India
+
+Environmental
+Swatch Bharat ranking *
+Comprehensive Environmental Assessment for available
+#
+cities
+
+79
+75.28
+
+4
+
+India Smart City Profile
+Source: *Press Information Bureau , Ministry of Urban Development, Government of India, 2015
+#
+Central Pollution Control Board, Ministry of Environment and Forests, Government of India, 2009
+
+7. Capacity: Track Record & Initiatives
+JNNURM Projects
+
+Status or Comment
+
+BSUP/IHSDP
+
+Under BSUP scheme, total of 5 projects (1 for infrastructure and 4 for housing)
+were sanctioned under BSUP of which 2 projects are completed. The total project
+cost was Rs 567.40 crores. The share of housing project is 99% (Rs. 563.67
+crores) and share of infrastructure project is 1% (Rs.3.73 crores). Out of 4
+housing projects 2 projects are complete, whereas the 2 projects on housing and
+1 on infrastructure are under progress. Construction of 99.9% of the dwelling unit
+is complete.
+
+UIG/UIDSSMT
+
+UIG: Total 31 projects were approved out of which 22 projects have been
+completed. Total 4 projects are in progress and 5 projects have not been initiated.
+257380.14
+Sector
+No of Projects
+Total Cost (Rs
+Share of sector in total
+Lakhs)
+projects approved
+Water
+6
+28961.12
+11.3
+Drainage/ SWD
+3
+34842.84
+13.5
+
+Total Approved Cost of projects (Rs.Lakhs)
+Sectorwise details of projects
+
+Share of Central Assistance released (%)
+% of work completed (Physical Progress)
+Funds Utilised (%)
+
+Sewerage
+SWM
+
+7
+1
+
+56475.77
+11672.1
+
+21.9
+4.5
+
+Transport
+Heritage
+
+13
+1
+NA
+NA
+
+117989.3
+7439
+NA
+NA
+
+45.8
+2.9
+NA
+NA
+
+Parking
+Others
+85.49
+27
+90.16
+
+Source: www.jnnurm.nic.in (accessed on November, 2015)
+
+Alignment with MoUD Schemes
+Heritage City Development and Augmentation Yojana
+(HRIDAY)
+AMRUT
+JNNURM
+NUIS
+North Eastern Region Urban Development Programme
+(NERUDP)
+
+Status, Comment
+NA
+City is covered under AMRUT Mission. The State Annual Action Plan has been
+submitted.
+City was covered under UIG component of JNNURM
+NA
+NA
+
+Source: Ministry of Urban Development, Government of India
+
+5
+
+

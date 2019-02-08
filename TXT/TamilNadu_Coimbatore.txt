@@ -1,0 +1,599 @@
+India Smart City Profile
+
+City: Coimbatore
+State: Tamil Nadu
+Category: Business & Industrial Centre, Tier 2
+Located in the East of the state, Coimbatore is the second largest city in Tamil Nadu and a fast growing Tier-II city. It is historically associated with a
+robust textile and cotton industry, though has diversified of late into services, IT, jewellery, wet grinders, pumps, poultry and auto-parts. It is also
+served by an international airport.
+
+1. Demographic Profile
+Indicator
+Total Population
+Total Population of UA (if)
+Share of ULB population in District Urban population (%)
+Population Growth Rate (AEGR) 2001-11
+Area (sq. km)*
+#
+Share of ULB area in district (%)*
+Density of population (person per sq. km)*
+Literacy Rate (%)
+Schedule Caste (%)
+Schedule Tribes (%)
+Youth, 15 - 24 years (%)
+Slum Population (%)
+Working Age Group, 15-59 years (%)
+
+City (Municipal
+Corporation)
+1050721
+
+2136916
+40.12
+1.21
+105.6
+2.23
+9950
+91.30
+10.27
+0.07
+15.94
+12.29
+68.38
+
+State (Urban)
+
+India (Urban)
+
+34917440
+
+377,106,125
+
+2.39
+
+2.76
+
+87.04
+14.21
+0.38
+17.12
+23.15
+67.23
+
+84.11
+12.60
+2.77
+19.68
+17.36
+65.27
+
+Source: Census of India, 2011
+* District Census Handbook, Census of India, 2011
+#
+The ULB is spread in more than one district
+
+2. Economic Profile
+Indicator
+
+City (Municipal
+Corporation)
+
+State (Urban)
+
+India (Urban)
+
+Per Capita Income (Rs.) at 2004-05 constant price *
+Urban Poverty Ratio (% of urban population)**
+
+65781
+
+53507
+6.6
+
+Rs. 35, 947
+13.7
+
+2.7
+
+3.4
+
+39.2
+
+35.5
+
+33.18
+55.46
+11.36
+
+34.3
+43.2
+22.5
+
+42.0
+43.4
+14.6
+
+9.29
+44.50
+46.22
+
+11.2
+37.3
+51.5
+
+7.5
+34.2
+58.3
+
+24.35
+7.10
+6.27
+4.60
+9.83
+3.83
+
+13.5
+7.4
+6.4
+3.9
+12.4
+5.0
+
+15.8
+8.8
+6.7
+5.0
+14.7
+4.6
+
+Unemployment Rate, 2011-12***
+Work Participation Rate, 2011-12***
+Work Status, 2011-12 (%) ***
+Self-employed:
+Regular/wage salaried employees:
+Casual labour:
+Sectoral Distribution of Workers, 2011-12 (%) ***
+Primary
+Secondary
+Tertiary
+Workers Classified by Major Occupation, 2011-12(%)
+***
+Legislators, senior officials and managers
+Professionals
+Technicians and associate professionals
+Clerks
+Service workers and shop and market sales workers
+Skilled agricultural and fishery workers
+
+3.66
+3.21
+41.30
+
+a
+
+1
+
+India Smart City Profile
+
+Craft and related trades workers
+Plant and machine operators and assemblers
+Elementary occupations
+Workers not classified by occupation
+#
+
+Primary Commodity Manufactured
+
+##
+
+Major Industries
+
+No. of sanctioned SEZ
+
+26.25
+7.69
+10.08
+0.00
+
+26.1
+10.1
+15.1
+0
+
+19.2
+9.2
+16.1
+0.1
+
+56
+
+413
+
+Motor Pumps
+Thread
+Electrical Goods
+Metallic - Automobile,
+Bicycle and its parts
+Machinery, Machine
+tools and its parts
+Non-metallic - Textiles &
+Garments
+Software products
+
+4
+
+Note: 3 year average of 2009-10, 2010-11 and 2011-12
+Source: * Directorate of Economics and Statistics of respective State Governments and for all India- Central Statistics Office
+**Unit Level Data of National Sample Survey Organization, Household Consumer Expenditure in India, 68th Round, 2011-12
+***Unit Level Data of National Sample Survey Organization, Employment and Unemployment Situation in India, 68th Round, 2011-12
+#
+District Census Handbook, Census of India, 2011
+##
+District Industrial Profile, Micro, Small and Medium Enterprises, Government of India
+∞ Department of Commerce, Ministry of Commerce and Industry
+
+3. Infrastructure Status
+Indicator
+% of households with access to tap water (from
+treated source) within Premises
+% of households with access to electricity
+% of households having toilet facilities within
+premises
+% of household Waste water outlet connected to
+drainage
+Type of sewerage system*
+Type of solid Waste system*
+% of households with access to computer/laptop
+with internet
+without internet
+% of households with access to mobile phones
+Ownership Pattern of Housing (%)
+Owned
+Rented
+% of households living in congested houses
+Indicator
+No. of Hospitals per 1,00,000 people *
+No of Schools per 1,00,000 people
+Primary
+Middle
+Secondary
+College
+
+City (Municipal
+Corporation)
+98.21
+
+State (Urban)
+
+India (Urban)
+
+66.29
+
+84.14
+
+98.32
+82.50
+
+96.11
+66.48
+
+92.68
+72.57
+
+89.58
+
+74.94
+
+81.77
+
+11.69
+11.56
+69.45
+
+7.55
+9.25
+67.26
+
+8.27
+10.40
+
+43.93
+53.69
+
+57.45
+40.21
+
+69.16
+27.55
+
+38.91
+
+32.94
+
+Under ground sewerage
+system
+Door to Door
+
+64.33
+
+City (Municipal Corporation)
+0.48
+9
+5
+11
+4
+
+Source: Tables of Houses, Household Amenities and Assets, Census of India, 2011
+* District Census Handbook, Census of India, 2011
+
+4. Political Profile: Leadership and Administrative Structure
+Architecture of Governance
+Structure of Elected and Executive Bodies. Give
+
+The Coimbatore Municipal Corporation consists of two Wings i.e., the
+Deliberative Wing and the Executive Wing. The executive wing has an elected
+2
+
+India Smart City Profile
+
+indication of hierarchies
+
+council comprising of a directly elected Mayor and Ward councilors. There are
+72 divisions and one elected councilor represents each division. As per the 74th
+Constitutional Amendment Act (CAA), the entire city is divided into four ward
+committees and seven standing committees to assist the council in its operations.
+A Deputy Mayor assists the Mayor and is elected from amongst the councilors.
+The term of both, the Mayor and his Deputy, is for a period of 5 years. The
+Commissioner, who is also the executive head of the Corporation, heads the
+administrative wing. Four zonal Assistant Commissioners and eight Heads of
+Department assist him. Municipal Corporations is responsible for provision of
+services and basic amenity to the citizens, which include: distribution of potable
+water; operation and maintenance of drainage and sewerage systems; public
+lighting; sanitation and public hygiene; construction and maintenance of bus
+terminals, roads, culverts, and bridges; maintenance of public parks and gardens;
+ensuring systematic urban growth; regulation of building construction; and
+licensing of commercial activities, etc
+The Tamil Nadu Water Supply and Drainage Board (TWAD) is responsible for
+creation of water and sewerage infrastructure in the state. However, Madurai
+Municipal Corporation is responsible for the provision and delivery of services
+within the City.
+The Town and Country Planning Department (TCPD) prepares the Master Plan
+and Comprehensive Development Plan (CDP) for the city/town, and the mandate
+of implementing the Master Plan /CDP lies with the ULB.
+Highways and Rural Works maintains the National and State Highways that pass
+through the town/city. Municipal roads are however created and maintained by
+the ULB.
+The Tamil Nadu Pollution Control Board (TNPCB) is responsible for
+environmental protection and enforcement of rulings related to the same, passed
+by competent authorities.
+The Tamil Nadu Slum Clearance Board (TNSCB) develops improvement
+schemes for notified/regularized slum settlements in the city/town. Infrastructure
+provision is financed partly through loans from the Housing and Development
+Corporation (HUDCO) and partly through grants from GoTN and GoI. The
+corporation is responsible of the infrastructure in the slums once the slums are
+handed over by the TNSCB to the corporation.
+
+No of elected representatives
+
+100
+
+Election Details*
+Election cycle, last election,
+Name, party affiliation where relevant, date office taken
+for: chief minister, commissioner, and mayor.
+
+Ms. J. Jayalalithaa from All India Anna Dravida Munnetra Kazhagam is the Chief
+Minister of Tamil Nadu . She was elected on 23-May 2015. The Commissioner is
+Dr.K.Vijaykarthikeyan since Nov 2014. The council is headed by Mayor Dr. P.
+Rajkumar of AIADMK, elected in Sep 2014.The municipal elections were held in
+the year 2011.
+
+Source:*Respective ULB website and Media Search
+
+5. Performance of Urban Local Body (ULB)
+Credit and Tax
+Credit Rating of ULBs (As on Nov 2012)*
+Property Tax #
+
+BBB+
+Coverage (%): 97%
+Collection Efficiency (%): 91%
+Amount(Rs.): Rs. 103.28 crore (2013-14)
+
+Source: *www.jnnurm.nic.in
+#
+Reform Appraisal Report, JNNURM, Ministry of Urban Development, Government of India
+
+E-governance& Computerization in ULB
+Reform
+Property Tax*
+Accounting*
+Water Supply & Other Utilities*
+Birth & Death Registration and Health programmes*
+Citizens' Grievance Monitoring*
+Personnel Management System*
+
+Status (implemented, in progress and any comment)
+Implemented
+Implemented
+Implemented
+Implemented
+Implemented
+Implemented
+
+3
+
+India Smart City Profile
+
+Building Plan Approval*
+e-Procurement*
+Can Citizens pay their bills and Taxes at citizen
+#
+facilitation centre (CFC)?
+#
+Does ULB has facility to Accept Online Payments
+#
+What is the E-mail Software being used in the ULB
+Are ULB offices connected with each other through local
+#
+area network (LAN)/ wide area network (WAN)
+#
+Do you have access to State Data Centre (SDC)?
+#
+Does the ULB have their own website
+#
+Implementation of 74th CAA
+
+Implemented
+Implemented
+Only on CFC
+Yes
+NIC
+Yes
+No
+Yes
+All the 18 functions has been transferred
+
+Note :* Modules of e-governance implemented in ULB
+Source: * Reform Appraisal Report, JNNURM, Ministry of Urban Development, Government of India and respective ULB's website
+#Information and Services Need Assessment (ISNA) Study for Urban Local Bodies, Ministry of Urban Development, Government of India, 2012
+
+Recognition
+List any national or international recognition such as
+awards, pilots, horizontal networks.
+
+• Member of ICLEI
+• India Today Best City Awards: Best Emerging city overall; Best Emerging City
+in Investment category; Best Emerging in Transport category; Best emerging in
+public services; Best emerging in health care
+
+6. Finance and Health
+Financial
+Indicator
+% of households with access to banking facilities *
+
+City (Municipal
+Corporation)
+69.52
+
+State (Urban)
+
+India (Urban)
+
+60.37
+
+67.77
+
+#
+
+Financial Status
+Details of municipal income and expenditure
+(Rs. Lakhs)
+2009-10
+2010-11
+2011-12
+% of municipal Budget reserved for urban poor@
+
+Income
+
+Expenditure
+
+34669.00
+35983.00
+39551.00
+
+26176.00
+27985.00
+30811.00
+
+Source: * Tables of Houses, Household Amenities and Assets, Census of India, 2011
+#
+Information and Services Need Assessment (ISNA) Study for Urban Local Bodies, Ministry of Urban Development, Government of India, 2012
+@
+Reform Appraisal Report, JNNURM, Ministry of Urban Development, Government of India
+
+Environmental
+Swatch Bharat ranking *
+Comprehensive Environmental Assessment for available
+#
+cities
+
+196
+72.38
+
+Source: *Press Information Bureau , Ministry of Urban Development, Government of India, 2015
+#
+Central Pollution Control Board, Ministry of Environment and Forests, Government of India, 2009
+
+7. Capacity: Track Record & Initiatives
+JNNURM Projects
+
+Status or Comment
+
+BSUP/IHSDP
+
+Under BSUP scheme, total 17 housing projects were sanctioned out of which 2
+projects have been completed. The total project cost was Rs.525.67 crores.
+Construction of 81% of the dwelling unit is complete.
+UIG: Total 6 projects have been approved. Total 2 projects have been completed,
+3 projects are under progress and 1 project has not been initiated.
+127786.78
+Sector
+No of Projects
+Total Cost (Rs
+Share of sector in total
+Lakhs)
+projects approved
+Water
+3
+62422.9
+48.8
+Drainage/SWD
+1
+18000
+14.1
+Sewerage
+1
+37712.88
+29.5
+SWM
+1
+9651
+7.6
+
+UIG/UIDSSMT
+Total Approved Cost of projects (Rs.Lakhs)
+Sectorwise details of projects
+
+4
+
+India Smart City Profile
+
+Share of Central Assistance released (%)
+% of work completed (Physical Progress)
+Funds Utilised (%)
+
+67.03
+63
+49.30880174
+
+Source: www.jnnurm.nic.in (accessed on November, 2015)
+
+Alignment with MoUD Schemes
+Heritage City Development and Augmentation Yojana
+(HRIDAY)
+AMRUT
+JNNURM
+NUIS
+North Eastern Region Urban Development Programme
+(NERUDP)
+
+Status, Comment
+City is covered under AMRUT Mission. The State Annual Action Plan has been
+submitted.
+City was covered under UIG component of JNNURM
+
+Source: Ministry of Urban Development, Government of India
+
+5
+
+
