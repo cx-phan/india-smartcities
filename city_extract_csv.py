@@ -7,6 +7,26 @@ def toCSV(city, state, category, tier, city_stat, employment_stat, industry_stat
 	values = [city, state, category, tier] + city_stat.values() + employment_stat.values() + industry_stat.values()
 	print ",".join(values)
 
+def infras(data):
+	infrastructure = {}
+	infrastructure_stat = {}
+
+	infrastructure['tap-water'] = "\"% of households with access to tap water\n(treated )?source\) within Premises\",\(from( treated)?,([0-9.]+)"
+
+	for key in infrastructure.keys(): 
+		pattern = infrastructure[key]
+		print pattern
+		temp = re.findall(pattern, data)
+		print temp
+
+		if len(temp) > 0:
+			infrastructure_stat[key] = temp[len(temp)-1].encode('utf-8')
+		else:
+			infrastructure_stat[key] = 'N/A'
+
+	print infrastructure_stat
+	return infrastructure_stat
+
 def industry(data):
 
 	industry = {} 
@@ -102,11 +122,11 @@ def main():
   		data = myfile.read().decode('utf-8')
 
   	city, state, category, tier = cities(data)
-  	city_stat = citystats(data)
-  	employment_stat = employmentstats(data)
-  	industry_stat = industry(data)
-
-  	toCSV(city, state, category, tier, city_stat, employment_stat, industry_stat)
+  	# city_stat = citystats(data)
+  	# employment_stat = employmentstats(data)
+  	# industry_stat = industry(data)
+  	infrastructure_stat = infras(data)
+  	# toCSV(city, state, category, tier, city_stat, employment_stat, industry_stat)
 	
 if __name__ == "__main__":
     main()
