@@ -3,6 +3,7 @@ import sys
 import re 
 import glob 
 
+# foo.csv --> any CSV file name 
 # run commmand ... python run_all_cities.py > foo.csv
 def main():
 	

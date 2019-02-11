@@ -7,24 +7,39 @@ def toCSV(city, state, category, tier, city_stat, employment_stat, industry_stat
 	values = [city, state, category, tier] + city_stat.values() + employment_stat.values() + industry_stat.values()
 	print ",".join(values)
 
+def writeDictionary(dictionary, data): 
+	dict2 = {}
+	for key in dictionary.keys(): 
+		pattern = dictionary[key]
+		# print pattern
+		temp = re.findall(pattern, data)
+		# print temp
+
+		if len(temp) > 0:
+			length = len(temp[0])
+			if type(temp[0]) == tuple:
+				dict2[key] = temp[0][length-1].encode('utf-8')
+			else:
+				dict2[key] = temp[0].encode('utf-8')
+		else:
+			dict2[key] = 'N/A'
+	print dict2
+
+	return dict2
+
 def infras(data):
 	infrastructure = {}
 	infrastructure_stat = {}
 
-	infrastructure['tap-water'] = "\"% of households with access to tap water\n(treated )?source\) within Premises\",\(from( treated)?,([0-9.]+)"
-
-	for key in infrastructure.keys(): 
-		pattern = infrastructure[key]
-		print pattern
-		temp = re.findall(pattern, data)
-		print temp
-
-		if len(temp) > 0:
-			infrastructure_stat[key] = temp[len(temp)-1].encode('utf-8')
-		else:
-			infrastructure_stat[key] = 'N/A'
-
-	print infrastructure_stat
+	infrastructure['tap-water'] = "\"% of households with access to tap water\n?(treated )?source\) within Premises\",\(from( treated)?,([0-9.]+)"
+	infrastructure['electricity'] = "% of households with access to electricity,+([0-9.]+)"
+	infrastructure['toilet'] = "\"?% of households having toilet facilities within\n?premises\"?,+([0-9.]+)"
+	infrastructure['drainage'] = "\"% of household Waste water outlet connected to\n?drainage\",+([0-9.]+)"
+	# should include? look again for review 
+	infrastructure['sewerage'] = "Type of sewerage system\*,+\"([\w\n ]+)\""
+	infrastructure['type'] = "Type of solid Waste system\*,+([\w\n ]+)"
+	infrastructure['mobile-ownership'] = "% of households with access to mobile phones,+([0-9.]+)"
+	infrastructure_stat = writeDictionary(infrastructure, data)
 	return infrastructure_stat
 
 def industry(data):
