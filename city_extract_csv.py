@@ -45,7 +45,7 @@ def infras(data):
 	infrastructure['toilet'] = "\"?% of households having toilet facilities within\n?premises\"?,+([0-9.]+)"
 	infrastructure['drainage'] = "\"% of household Waste water outlet connected to\n?drainage\",+([0-9.]+)"
 	# should include? look again for review 
-	infrastructure['sewerage'] = "Type of sewerage system\*,+\"([\w\n ]+)\""
+	# infrastructure['sewerage'] = "Type of sewerage system\*,+\"([\w\n ]+)\""
 	infrastructure['type'] = "Type of solid Waste system\*,+([\w\n ]+)"
 	infrastructure['mobile-ownership'] = "% of households with access to mobile phones,+([0-9.]+)"
 	infrastructure['internet-computer'] = "\"?% of households with access to computer\/laptop\nwith internet\n?without internet\",+\"?([0-9.]+)\n[0-9.]+"
