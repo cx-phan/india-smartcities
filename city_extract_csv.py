@@ -14,6 +14,7 @@ def enablePrint():
 def toCSV(city, state, category, tier, city_stat, employment_stat, industry_stat, infrastructure_stat):
 	headers = ['city', 'state', 'category', 'tier'] + city_stat.keys() + employment_stat.keys() + industry_stat.keys() + infrastructure_stat.keys()
 	values = [city, state, category, tier] + city_stat.values() + employment_stat.values() + industry_stat.values() + infrastructure_stat.values()
+	# print headers
 	print ",".join(values)
 
 def writeDictionary(dictionary, data): 
@@ -46,7 +47,7 @@ def infras(data):
 	infrastructure['drainage'] = "\"% of household Waste water outlet connected to\n?drainage\",+([0-9.]+)"
 	# should include? look again for review 
 	# infrastructure['sewerage'] = "Type of sewerage system\*,+\"([\w\n ]+)\""
-	infrastructure['type'] = "Type of solid Waste system\*,+([\w\n ]+)"
+	infrastructure['type-waste'] = "Type of solid Waste system\*,+([\w\n ]+)"
 	infrastructure['mobile-ownership'] = "% of households with access to mobile phones,+([0-9.]+)"
 	infrastructure['internet-computer'] = "\"?% of households with access to computer\/laptop\nwith internet\n?without internet\",+\"?([0-9.]+)\n[0-9.]+"
 	infrastructure['no-internet-computer'] = "\"?% of households with access to computer\/laptop\nwith internet\n?without internet\",+\"?[0-9.]+\n([0-9.]+)"
