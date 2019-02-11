@@ -11,9 +11,9 @@ def blockPrint():
 def enablePrint():
     sys.stdout = sys.__stdout__
 
-def toCSV(city, state, category, tier, city_stat, employment_stat, industry_stat):
-	headers = ['city', 'state', 'category', 'tier'] + city_stat.keys() + employment_stat.keys() + industry_stat.keys()
-	values = [city, state, category, tier] + city_stat.values() + employment_stat.values() + industry_stat.values()
+def toCSV(city, state, category, tier, city_stat, employment_stat, industry_stat, infrastructure_stat):
+	headers = ['city', 'state', 'category', 'tier'] + city_stat.keys() + employment_stat.keys() + industry_stat.keys() + infrastructure_stat.keys()
+	values = [city, state, category, tier] + city_stat.values() + employment_stat.values() + industry_stat.values() + infrastructure_stat.values()
 	print ",".join(values)
 
 def writeDictionary(dictionary, data): 
@@ -129,7 +129,7 @@ def main():
   	employment_stat = employmentstats(data)
   	industry_stat = industry(data)
   	infrastructure_stat = infras(data)
-  	toCSV(city, state, category, tier, city_stat, employment_stat, industry_stat)
+  	toCSV(city, state, category, tier, city_stat, employment_stat, industry_stat, infrastructure_stat)
 	
 if __name__ == "__main__":
     main()
