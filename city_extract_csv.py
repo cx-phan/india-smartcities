@@ -13,7 +13,7 @@ def enablePrint():
 
 def toCSV(city, state, category, tier, city_stat, employment_stat, industry_stat, infrastructure_stat, housing_stats):
 	headers = ['city', 'state', 'category', 'tier'] + city_stat.keys() + employment_stat.keys() + industry_stat.keys() + infrastructure_stat.keys() + housing_stats.keys()
-	values = [city, state, category, tier] + city_stat.values() + employment_stat.values() + industry_stat.values() + infrastructure_stat.values() + housing_stats.keys()
+	values = [city, state, category, tier] + city_stat.values() + employment_stat.values() + industry_stat.values() + infrastructure_stat.values() + housing_stats.values()
 	# print headers
 	print ",".join(values)
 
