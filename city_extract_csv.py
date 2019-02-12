@@ -22,8 +22,8 @@ def writeDictionary(dictionary, data):
 	for key in dictionary.keys(): 
 		pattern = dictionary[key]
 		temp = re.findall(pattern, data)
-		# print pattern
-		# print temp
+		print pattern
+		print temp
 
 		if len(temp) > 0:
 			length = len(temp[0])
@@ -43,10 +43,10 @@ def housing(data):
 	house['housing-rented'] = "Owned\nRented\",+\"[0-9.]+\n([0-9.]+)"
 	house['housing-congested'] = "% of households living in congested houses,+([0-9.]+)"
 	house['hospital-per'] = "\"No\. of Hospitals per 1,00,000 people \*\",+([0-9.]+)"
-	house['school-primary-per'] = "\"?No of Schools per 1,00,000 people\"?[0-9.,]+\nPrimary,+([0-9.]+)"
-	house['school-middle-per'] = "\"?No of Schools per 1,00,000 people\"?[0-9.,]+\nPrimary,+[0-9.]+,+\nMiddle,+([0-9.]+)"
-	house['school-secondary-per'] = "\"?No of Schools per 1,00,000 people\"?[0-9.,]+\nPrimary,+[0-9.]+,+\nMiddle,+[0-9.]+,+\nSecondary,+([0-9.]+)"
-	house['school-college-per'] = "\"?No of Schools per 1,00,000 people\"?[0-9.,]+\nPrimary,+[0-9.]+,+\nMiddle,+[0-9.]+,+\nSecondary,+[0-9.]+,+\nCollege,+([0-9.]+)"
+	house['school-primary-per'] = "\"?No of Schools per 1,00,000 people\"?[0-9NA.,]+\nPrimary,+([0-9.]+)"
+	house['school-middle-per'] = "\"?No of Schools per 1,00,000 people\"?[NA0-9.,]+\nPrimary,+[NA0-9.]+,+\nMiddle,+([0-9.]+)"
+	house['school-secondary-per'] = "\"?No of Schools per 1,00,000 people\"?[NA0-9.,]+\nPrimary,+[NA0-9.]+,+\nMiddle,+[NA0-9.]+,+\nSecondary,+([0-9.]+)"
+	house['school-college-per'] = "\"?No of Schools per 1,00,000 people\"?[NA0-9.,]+\nPrimary,+[NA0-9.]+,+\nMiddle,+[NA0-9.]+,+\nSecondary,+[NA0-9.]+,+\nCollege,+([0-9.]+)"
 	housing_stats = writeDictionary(house, data)
 
 	return housing_stats
@@ -126,6 +126,8 @@ def citystats(data):
 def cities(data):
 	city = re.findall('City: (\w+)', data)[0].encode('utf-8')
 	state = re.findall('State: (\w+ ?\w+)', data)[0].encode('utf-8')
+	print city
+	print state
 	category_tier_search = "Category: ([.\s\S]+?), Tier ([0-9])"
 	category, tier = re.findall(category_tier_search, data)[0]
 	return city, state, category.encode('utf-8'), tier.encode('utf-8')
@@ -138,6 +140,7 @@ def main():
   		data = myfile.read().decode('utf-8')
 
   	city, state, category, tier = cities(data)
+
   	city_stat = citystats(data)
   	employment_stat = employmentstats(data)
   	industry_stat = industry(data)
