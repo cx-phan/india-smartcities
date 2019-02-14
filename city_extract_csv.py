@@ -15,7 +15,9 @@ def toCSV(city, state, category, tier, city_stat, employment_stat, industry_stat
 	headers = ['city', 'state', 'category', 'tier'] + city_stat.keys() + employment_stat.keys() + industry_stat.keys() + infrastructure_stat.keys() + housing_stats.keys()
 	values = [city, state, category, tier] + city_stat.values() + employment_stat.values() + industry_stat.values() + infrastructure_stat.values() + housing_stats.values()
 	# print headers
+	enablePrint()
 	print ",".join(values)
+	blockPrint()
 
 def writeDictionary(dictionary, data): 
 	dict2 = {}
@@ -133,7 +135,7 @@ def cities(data):
 	return city, state, category.encode('utf-8'), tier.encode('utf-8')
 
 def main(): 
-
+	blockPrint()
 	filename = sys.argv[1]
 
 	with open(filename, "r") as myfile:
