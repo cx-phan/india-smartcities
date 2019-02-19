@@ -1,0 +1,84 @@
+S.no Component,,Cities,Count,Sector
+1,Centralised command and control centre,"Bhubaneshwar, Surat, Kochi, Ahmedabad, Jabalpur, Visakhapatnam, Davanagere, Indore, Coimbatore, Belagavi,Udaipur, Ludhiana,Bhopal",13,Governance
+2,"Transit operations system(maintenance and tracking)","Bhubaneshwar, Pune, Jaipur, Ahmedabad, Indore, Solapur,
+Davanagere, Indore, Kakinada, Udaipur, Guwahati",10,Transportation & Mobility
+3,Smart parking system,"Bhubaneshwar, Pune, Jaipur, Davanagere, Indore, Coimbatore,
+Kakinada, Udaipur, Guwahati, Chennai, Bhopal",11,Transportation & Mobility
+4,Common card (payment and operations),"Bhubaneshwar, Jaipur, Surat, Ahmedabad, Indore, Udaipur, Guwahati",7,
+5,Area based traffic control,"Bhubaneshwar, Pune, Ahmedabad, Davanagere, Indore, Coimbatore,",7,Transportation & Mobility
+6,leak identification system (SCADA/ and AMR),"Kakinada,Pune, Ahmedabad, Solapur, NDMC, Kakinada, Udaipur",6,
+7,Platform for citizen engagement and all citizen services; city dash board,"Kochi, Visakhapatnam, Solapur, Davanagere, Indore, Bhopal",6,Transportation & Mobility
+8,Traffic mobile app,"Pune, Jaipur, Ahmedabad, Indore, Guwahati",5,Transportation & Mobility
+9,Smart metering (water),"Pune, Kochi, Vizag, Solapur, NDMC, Coimbatore, Belagavi, Udaipur",8,Assured Water Supply
+10,CCTV surveillance,"Pune, Ahmedabad, Devangere, Indore, Coimbatore, Guwahati, Bhopal",7,
+11,Emergency response,"Bhubaneshwar,Surat, Ahmedabad, Visakhapatnam, Coimbatore, Udaipur",6,Governance
+12,Public Information system,"Pune, Ahmedabad, Davanagere, Indore,",4,Governance
+13,Public transit and traffic operations and mangement centre,"Jaipur, Surat, Ahmedabad,Devangere, Vizag, Indore, Belagavi, Udaipur",8,Transportation & Mobility
+14,GPS tracking and optimisation of routes of garbage trucks,"Jaipur, Jabalpur, Indore, Kakinada",4,Transportation & Mobility
+15,Wifi- IT connectivity,"Pune, Surat, Kochi, Coimbatore, Belagavi, Guwahati",6,
+16,NMT infrastructure,"Devanagere, Belagavi, Udaipur, Guwahati, Chennai, Bhopal",6,Transportation & Mobility
+17,LED street lighting,"Coimbatore, Guwahati, Chennai, Bhopal",4,Transportation & Mobility
+18,"Traffic analysis or roads and video survielance inside bus using CCTV surviellance","Pune, Indore, Kakinada",3,Transportation & Mobility
+19,Mobile app based SWM and cleaniliness monitoring,"Jaipur, Jabalpur, Indore",3,
+20,Fleet management system,"Jaipur, Ahmedabad, Indore,",3,Transportation & Mobility
+21,Automatic fare collection system (transport),"Bhubaneshwar, Jaipur, Surat, Ahmedabad, Indore,",5,Transportation & Mobility
+22,Variable message sign boards,"Ahmedabad, Indore, Bhopal",3,
+23,Optical fibre enabled communication,"Ahmedabad, Indore, Bhopal",3,Wifi
+24,Pedestrian infra,"Belgavi, Udaipur, Guwahati",3,Transportation & Mobility
+25,Smart bulk metering at WTPs,"Pune, Surat, Kochi",3,
+26,24x 7 water supply,"Pune,NDMC, Belagavi",3,Assured Water Supply
+27,"Grievance redressal through web, app and phone","Pune, Vizag, Kakinada, Chennai, Bhopal",5,Governance
+28,SWM operations and management centre/ system,"Jaipur, Jabalpur, Indore, Belagavi",4,
+29,Smart card for all service payments,"Surat, Ahmedabad, Kochi, Indore,",4,Governance
+30,Smart Bus stops,"Pune,Jaipur, Devanagere, Belagavi",4,Transportation & Mobility
+31,Smart meters for electricity,"NDMC, Udaipur",2,Power Supply
+32,Solar power capacity implementation,"NDMC, Belagavi, Guwahati",3,Power Supply
+33,e-healthcare,"Vizag, NDMC, Coimbatore, Kakinada",4,Health
+34,Air quality monitoring sensors,"NDMC , Coimbatore, Bhopal",3,Reduced Pollution
+35,City buses,"Bhubneshwar, Pune, Devangere, Udaipur, Guwahati",5,Transportation & Mobility
+36,Hydraullic information system/ flood monitoring,"Guwahati, Chennai",2,
+37,In-bus information system and wifi,Pune,1,Transportation & Mobility
+38,Private bus aggregator,Pune,1,Transportation & Mobility
+39,Intelligent road asset management,Pune,1,Transportation & Mobility
+40,"Give up water subsidy""campaign",Pune,1,Assured Water Supply
+41,ICT enabled billing and recovery department,"Pune, Surat",2,
+42,e-challans for traffic violations,"Bhubneshwar, Pune",2,Transportation & Mobility
+43,ICT and social media based 2 way communication with citizens,Jaipur,1,
+44,ERP with GIS platform for corporation,Surat,1,
+45,Ticket vending machines and value machines,Ahmedabad,1,
+46,Water accounting at community level,Ahmedabad,1,Assured Water Supply
+47,RFID tags for SWM,"Jabalpur, Coimbatore, Bhopal",3,
+48,Street sweeping and dustinf machines,Jabalpur,1,Solid Waste Management
+49,Capacity bulding of staff,"Jabalpur, Ludhiana",2,Governance
+50,Institutionalising SLB,Solapur,1,
+51,Mapping of utilities,Solapur,1,
+52,Data analytics centre,"Solapur, Coimbatore, Bhopal",3,Governance
+53,Intelligent solar powered lights,"Devanagere, Belgavi",2,Power Supply
+54,Bicycle pods with PIS,Devanagere,1,Transportation & Mobility
+55,Smart paving (capture energy from movement),Devanagere,1,Power Supply
+56,"One website, app and call centre",Devanagere,1,Governance
+57,Pedestrian and bicycle activated signals,Indore,1,Transportation & Mobility
+58,Supervision of waste processing facility,Indore,1,Solid Waste Management
+59,Smart grid and energy management,NDMC,1,Power Supply
+60,Mini STP,NDMC,1,
+61,Rainwater harvesting,NDMC,1,Assured Water Supply
+62,Smart classrooms,NDMC,1,Education
+63,Virtual hospital,NDMC,1,Health
+64,Weighing machines with RFIS/ NFC,Kakinada,1,
+65,GPS for geofencing garbage bins,"Indore, Coimbatore, Kakinada",3,Solid Waste Management
+66,Handheld biometric system,"Coimbatore, Kakinada",2,Governance
+67,Kiosks (for urban services and grievnce),"Kochi, Devangere, Kakinada, Ludhiana",4,Transportation & Mobility
+68,Junction improvement,Belgavi,1,Transportation & Mobility
+69,Para-transit facility,Belgavi,1,Transportation & Mobility
+70,Bus terminal,Belgavi,1,Transportation & Mobility
+71,Cleaner fuels,Belgavi,1,Power Supply
+72,Solar panels on bus top roof,Guwahati,1,"Transportation & Mobility, Power Supply"
+73,Tourism mobile app,Guwahati,1,Identity & Culture
+74,Bus bays,Guwahati,1,Transportation & Mobility
+75,Cycle sharing,"Devangere, Chennai",2,Transportation & Mobility
+76,Parking management (pricing),Chennai,1,Transportation & Mobility
+77,Online system of water connections,Chennai,1,Assured Water Supply
+78,Smart E- Rickshaw with charging station,Ludhiana,1,Transportation & Mobility
+79,GIS enabled revenue collection (land),Ludhiana,1,
+80,Water level sensors,"Kakinada, Guwahati, Chennai, Bhopal",4,Assured Water Supply
+81,Intelligent shopping apps,Bhopal,1,

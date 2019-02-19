@@ -107,6 +107,7 @@ def citystats(data):
 	# stats on population 
 
 	city_text['population'] = "Total Population,\"?([0-9]+)\"?"
+	print city_text['population']
 	city_text['urban_population'] = "Total Population of UA \(if\)\,\"?([0-9]+)\"?"
 	city_text['population_growth'] = "Population Growth Rate \(AEGR\) 2001-11,([-0-9.]+)"
 	city_text['area'] = "Area \(sq\. km\)\*,([0-9.]+)"
@@ -120,7 +121,9 @@ def citystats(data):
 	city_text['slum'] = "Slum Population \(%\),([0-9\.]+)"
 	city_text['working'] = "\"?Working Age Group, 15-59 years \(%\)\"?,([0-9\.]+)"
 
+	print city_text
 	city_stat = writeDictionary(city_text, data)
+	print city_stat
 
 	return city_stat
 
@@ -135,7 +138,7 @@ def cities(data):
 	return city, state, category.encode('utf-8'), tier.encode('utf-8')
 
 def main(): 
-	blockPrint()
+	# blockPrint()
 	filename = sys.argv[1]
 
 	with open(filename, "r") as myfile:
