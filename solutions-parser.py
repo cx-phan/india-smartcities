@@ -6,7 +6,7 @@ import csv
 # write the same information, but in binary form for easy grouping in Excel/Google Sheets
 def write_to_file_two(city_dictionary, titles):
 	newfile = "solutions-binary.tsv"
-
+	print titles
  	# return
 	with open(newfile, 'w') as csvfile:
 	    spamwriter = csv.writer(csvfile, delimiter='\t',
@@ -54,6 +54,7 @@ def main():
 					continue
 				else: 
 					city_dictionary[name] = [activity]
+				print activity.strip("\"").strip("\"")
 				all_jobs.add(activity.strip("\""))
 	
 	write_to_file_one(city_dictionary)
