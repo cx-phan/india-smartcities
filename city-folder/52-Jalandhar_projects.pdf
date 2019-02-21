@@ -1,0 +1,188 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="keywords" content="Error Page" />
+	<meta name="description" content="Error Page" />
+	<title>Error Page :  SMART CITIES MISSION, Government of India</title>
+
+    <title>SMART CITIES MISSION, Government of India</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="http://164.100.161.224/css/bootstrap.css" rel="stylesheet">
+    
+
+    <!-- Custom CSS  -->
+    <link href="http://164.100.161.224/css/style.css" rel="stylesheet"> 
+  
+    <!-- Color Theme CSS -->
+	<link rel="alternate stylesheet" href="http://164.100.161.224/css/change.css" media="screen" title="change" />
+    
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="http://164.100.161.224/css/responsive.css" />
+    <link rel="stylesheet" href="http://164.100.161.224/css/meanmenu.css" />
+
+
+
+    <!-- Custom Fonts -->
+    <link href="http://164.100.161.224/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link href="http://164.100.161.224/css/jquery.treeview.css" rel="stylesheet">
+    
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="js/html5shiv.js"></script>
+        <script src="js/respond.min.js"></script>
+    <![endif]-->
+
+    
+        <!-- jQuery -->
+    <script src="http://164.100.161.224/js/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="http://164.100.161.224/js/bootstrap.min.js"></script>
+    
+    <!-- Menu Access for Tab Key -->
+	<script src="http://164.100.161.224/js/superfish.js"></script>
+    
+    <!-- font Size Increase Decrease -->
+    <script src="http://164.100.161.224/js/font-size.js"></script>
+    
+<script src="http://164.100.161.224/js/swithcer.js"></script>
+<!--<script src="http://164.100.161.224/js/script_again.js"></script> -->
+
+</head>
+<body id="fontSize">
+
+	<!-- Accessbility Part Start -->
+	<div class="container-fluid accebility-bg">
+    <div class="container">
+    <noscript>
+    <div class="nos"><p>JavaScript must be enabled in order for you to use the Site in standard view. However, it seems JavaScript is either disabled or not supported by your browser. To use standard view, enable JavaScript by changing your browser options.</p></div>
+</noscript>
+ <div class="indian-flag"><div class="img"><img src="http://164.100.161.224/images/indian-flag.jpg" width="33" height="22" alt="Indian Flag" title="Indian Flag"> </div>
+    <p>Government of India</p></div>
+  
+    	<div>
+        <ul class="top-menu" id="example1">
+        <li>
+				<a href="#skip"><img src="http://164.100.161.224/images/ico-skip.png" width="24" height="24" alt="Skip Main Content" title="Skip Main Content"></a></li>
+        
+        
+        <li><a href="http://164.100.161.224/content/screenreader.php"><img src="http://164.100.161.224/images/sc.png" width="24" height="24" alt="Screen-Reader-Access" title="Screen Reader Access"></a></li>
+        
+        <li><a href="#"><img src="http://164.100.161.224/images/ico-accessibility.png" width="24" height="24" alt="Accessibility-option" title="Accessibility Option"></a>
+       		<ul>
+            	<li><a href="javascript:void(0);" title="Increase font size" onClick="set_font_size('increase')">A<sup>+</sup></a></li>
+                <li><a href="javascript:void(0);" title="Reset font size" onClick="set_font_size('')">A</a></li>
+                <li><a href="javascript:void(0);" title="Decrease font size" onClick="set_font_size('decrease')" >A<sup>-</sup></a></li>
+                <li class="hight-contrast"><a href="javascript:void(0);" title="High Contrast" class="hc" onclick="chooseStyle('change', 60);">A</a></li>
+                <li><a href="javascript:void(0);" title="Normal" class="normal"  onclick="chooseStyle('style', 60);">A</a></li>
+            </ul>
+        </li>
+        <li><a href="#"><img src="http://164.100.161.224/images/ico-social.png" width="24" height="24" alt="Social Icons" title="Social Icons"></a>
+        <ul>
+            	<li><a href="https://www.facebook.com/SmartCitiesMoUD/" target="_blank"><img src="http://164.100.161.224/images/facebook-icons.jpg" width="22" height="22" alt="facebook-icons" title="Facebook : External website that open in a new tab" onclick="return confirm('This is external link, Are you sure you want to continue?');"></a></li>
+				<!--https://twitter.com/smartcity_moud-->
+                <li><a href="https://twitter.com/smartcitiesmoud?ref_src=twsrc%5Etfw" target="_blank" onclick="return confirm('This is external link, Are you sure you want to continue?');"><img src="http://164.100.161.224/images/twitter.jpg" width="22" height="22" alt="twitter-icons" title="Twitter : External website that open in a new tab"></a></li>
+                <li><a href="http://164.100.161.224/content/innerpage/smart-video.php"><img src="http://164.100.161.224/images/you-tube.jpg" width="22" height="22" alt="Youtube-icons" title="Youtube"></a></li>
+                
+            </ul>
+        
+        </li>
+        <li><a href="#"><img src="http://164.100.161.224/images/ico-site-search.png" width="24" height="24" title="Icons Site Search" alt="site-search"></a>
+        
+        <ul>
+        <li class="slave">
+		<form  action="http://164.100.161.224/content/search.php" id="cse-search-box" name="searchform" onsubmit=" if(this.q.value == '' || this.q.value.length < 1) { alert('Please enter a Search Keyword'); return false; }else {return gsearch('searchform')}">
+<input type="hidden" name="cx" value="013280925726808751639:yjssp0-6qwa" />
+<input type="hidden" name="cof" value="FORID:10"/>
+<input type="hidden" name="ie" value="UTF-8"/>
+        <label for="q">Search</label>
+			<input type="text" class="search" id="q"  name="q" placeholder="Enter Your Keyword"/>
+			<button type="submit"  class="search-buttion"></button>
+		
+</form>
+	 </li>
+
+
+        </ul>
+        
+        </li>
+        <li><a href="http://164.100.161.224/content/sitemap.php"><img src="http://164.100.161.224/images/ico-sitemap.png" width="24" height="24" alt="sitemap" title="Sitemap"></a></li>
+         <li class="contact-show"><a href="http://164.100.161.224/contenthi" class="last-font" title="हिंदी" target="_blank" onclick="return langvisit();">हिंदी <span class="hidethis">Hindi Link:This will open in new window.</span></a></li>
+	</ul>
+        </div>
+       
+
+		<script type="text/javascript">
+function langvisit()
+{
+
+if (!confirm('Are you sure you want to move to hindi language?')) 
+	return false;
+
+}
+</script>  </div>
+  <div class="clear"></div>
+        </div>
+    <!-- Accessbility Part End -->
+    
+    <!-- Logo Part Start -->
+	<div class="container-fluid logo-top-back">
+		<div  class="container">
+          <header id="header">
+
+<div class="col-md-6 col-xs-9">
+            <h1> <a href="http://164.100.161.224/content"><img src="http://164.100.161.224/images/smart-cities-mission-new.png" class="img-responsive" title="Smart Cities Mission,Government of India" alt="Smart Cities Mission,Government of India"></a>
+            </h1>
+            </div>
+            
+            
+            <div class="col-md-1 col-xs-3 pull-right">
+            <div class="header-img-m">
+            <img src="http://164.100.161.224/images/indian-emblem.png" alt="Indian Emblem" title="Indian Emblem" class="img-responsive">
+            </div>
+ </div>
+ </header>            
+    	</div>
+	</div>
+    <!-- Logo Part End -->
+    
+
+    <!--Middle Part Start -->   
+	<div class="container background-white" id="skip">
+    	<div class="row">
+  
+			<div class="col-md-9 content-area">
+               
+                <h3>Sorry! Error 404 - Page Not Found</h3>
+					<p>The page you are attempting to access cannot be found. It may have been moved / renamed or may no longer exist.
+					We have recently redesigned our website to make it easier and faster for you to find the information you need. This means the bookmarks and addresses you have used in the past may no longer work.</p>
+					<p>To find the information you are looking for please try one of the following.</p>
+					<p>&nbsp;</p>
+					<ol type="a">
+						 <li>If you typed the page URL, check the spelling.</li>
+						 <li> Go to our <a href="http://164.100.161.224/content/"> <strong>Home</strong> </a> page and browse through our topics for the information you want.</li>
+						  <li> Go to our <a href="#" onClick="history.go(-1);return false;"> <strong>Previous</strong> </a> page and browse through our topics for the information you want.</li>
+					</ol> 
+					<br>
+		
+	</div> 
+</div>
+</div>        
+
+    
+	
+</body>
+</html>
