@@ -1,61 +1,50 @@
-"List of Projects as per Smart City Proposal : NDMC","",""
-"Sl. No.","Projects in SCP","Cost (Rs. in Crore)"
-"","Area Based Development (ABD)",""
-"","Urban Mobility & Smart Parking",""
-"1.0","Para-transit facilities including PELICAN crossing","5.0"
-"2.0","Electric Vehicles (EV's) based last mile connectivity","25.0"
-"3.0","EV charging facility at parking bay","1.0"
-"4.0","App integrated cycle tracks","2.0"
-"5.0","e-surveillance including e-challan for traffic violation","5.0"
-"6.0","Parking for Intermediate-Public- Transport","1.0"
-"7.0","Smart Bus Stops","1.0"
-"8.0","Multi-level automated parking at KG Marg, Shivaji Terminal &
-near IOC Building","190.0"
-"9.0","Sensor based Smart Parking","6.0"
-"10.0","Pedestrianization of Inner Circle Connaught Place","20.0"
-"","ABD",""
-"11.0","Sensor based Common Service Utility Duct","150.0"
-"12.0","Transformation of electric-Poles into Smart Poles with LEDs having incident-driven-controllers; communication-infrastructure, Wi- Fi access points, air-quality sensors, noise-pollution sensors","25.0"
-"13.0","Hierarchical Command and Control Centre","15.0"
-"14.0","Happiness area","35.0"
-"15.0","Happiness area for the cultural and social needs of citizen","10.0"
-"16.0","Renovation of Gole Market, adding Interactive Museum on
-History of Indian Civilization","25.0"
-"17.0","Transforming sub-ways into vibrant spaces ATM/pet adoption
-centre/Advt. etc.","5.0"
-"18.0","Signature Giant Smart Digital Screen: Traffic Info/Social
-Messaging/Alerts/Cricket/Advt","20.0"
-"19.0","Rooftop solar panels","105.0"
-"20.0","Rooftop solar panels in public buildings up to 7.5 MW","52.5"
-"21.0","Rooftop solar panels in Pvt. Sector up to 7.5 MW","52.5"
-"","Municipal Solid Waste Management",""
-"22.0","Geo tagging of bins","1.0"
-"23.0","Providing new bins","1.0"
-"24.0","Automatic sewer cleaning machine","14.0"
-"25.0","Augmenting existing mechanized road cleaning machines","16.0"
-"26.0","Green (Horticulture waste) to Gas Smart plant","8.6"
-"","ABD",""
-"27.0","Transforming Public Toilets into Smart Public Amenities Centres","4.5"
-"28.0","Financial, Identity, Ticketing & Access inclusion","5.0"
-"29.0","Introducing signature initiative to the citys Identity and Culture","3.0"
-"30.0","Gateway to the World: On-street Live Video Conferencing
-between people of Delhi and multiple Global Cities","3.0"
-"31.0","Delhi International Festival","-"
-"32.0","Global Capital City Award","-"
-"33.0","Behavioral transformation","5.0"
-"Sl. No.","Projects in SCP","Cost (Rs. in Crore)"
-"","Pan City",""
-"34.0","E-governance","10.0"
-"35.0","Smart Grid and Energy Management (ongoing)","958.0"
-"36.0","Smart Grid Implementation","528.0"
-"37.0","40 MW Solar Power Projects","430.0"
-"","Smart Water and waste-water Management",""
-"38.0","Pan- Smart Water and waste-water Management","190.42"
-"","Smart Education",""
-"39.0","eLearning Solution in all NDMC schools, Virtual Labs","35.0"
-"40.0","Centralized Students health e-records","10.0"
-"","Smart Health",""
-"41.0","Integrate all public medical facilities through Cloud-based e- healthcare system (Cloud provided by NIC under Digital India","20.0"
-"42.0","Centralised Hospitalization facilitation for EWS for enabling them to access private hospital beds reserved for EWS, & provision of transportation service for transfer to private hospitals","1.75"
-"43.0","Virtual medical service","3.0"
-"Note-  This only indicates cost of individual projects given in the SCP. The total value of SCP may additionally include other costs such as DPR preparation, PMC, O&M etc.","",""
+List of Projects as per Smart City Proposal : NDMC,,,,,,
+Sl. No.,Projects in SCP,Cost (Rs. in Crore),City Tag,Size,Indicator,Unknown
+1,Para-transit facilities including PELICAN crossing,5,Urban Mobility & Smart Parking,ABD,,Transportation & Mobility
+2,Electric Vehicles (EV's) based last mile connectivity,25,Urban Mobility & Smart Parking,ABD,,Transportation & Mobility
+3,EV charging facility at parking bay,1,Urban Mobility & Smart Parking,ABD,,Transportation & Mobility
+4,App integrated cycle tracks,2,Urban Mobility & Smart Parking,ABD,,Transportation & Mobility
+5,e-surveillance including e-challan for traffic violation,5,Urban Mobility & Smart Parking,ABD,,Transportation & Mobility
+6,Parking for Intermediate-Public- Transport,1,Urban Mobility & Smart Parking,ABD,,Transportation & Mobility
+7,Smart Bus Stops,1,Urban Mobility & Smart Parking,ABD,,Transportation & Mobility
+8,"Multi-level automated parking at KG Marg, Shivaji Terminal &
+near IOC Building",190,Urban Mobility & Smart Parking,ABD,,Transportation & Mobility
+9,Sensor based Smart Parking,6,Urban Mobility & Smart Parking,ABD,,Transportation & Mobility
+10,Pedestrianization of Inner Circle Connaught Place,20,Urban Mobility & Smart Parking,ABD,,Transportation & Mobility
+11,Sensor based Common Service Utility Duct,150,N/A,ABD,,Unknown
+12,"Transformation of electric-Poles into Smart Poles with LEDs having incident-driven-controllers; communication-infrastructure, Wi- Fi access points, air-quality sensors, noise-pollution sensors",25,N/A,ABD,,Reduced Pollution
+13,Hierarchical Command and Control Centre,15,N/A,ABD,,Governance
+14,Happiness area,35,N/A,ABD,,Unknown
+15,Happiness area for the cultural and social needs of citizen,10,N/A,ABD,,Identity & Culture
+16,"Renovation of Gole Market, adding Interactive Museum on
+History of Indian Civilization",25,N/A,ABD,,Identity & Culture
+17,"Transforming sub-ways into vibrant spaces ATM/pet adoption
+centre/Advt. etc.",5,N/A,ABD,,Identity & Culture
+18,"Signature Giant Smart Digital Screen: Traffic Info/Social
+Messaging/Alerts/Cricket/Advt",20,N/A,ABD,,Identity & Culture
+19,Rooftop solar panels,105,N/A,ABD,,Power Supply
+20,Rooftop solar panels in public buildings up to 7.5 MW,52.5,N/A,ABD,,Power Supply
+21,Rooftop solar panels in Pvt. Sector up to 7.5 MW,52.5,N/A,ABD,,Power Supply
+22,Geo tagging of bins,1,Municipal Solid Waste Management,ABD,,Solid Waste Management
+23,Providing new bins,1,Municipal Solid Waste Management,ABD,,Solid Waste Management
+24,Automatic sewer cleaning machine,14,Municipal Solid Waste Management,ABD,,Solid Waste Management
+25,Augmenting existing mechanized road cleaning machines,16,Municipal Solid Waste Management,ABD,,Solid Waste Management
+26,Green (Horticulture waste) to Gas Smart plant,8.6,Municipal Solid Waste Management,ABD,,Solid Waste Management
+27,Transforming Public Toilets into Smart Public Amenities Centres,4.5,N/A,ABD,,Wastewater Management
+28,"Financial, Identity, Ticketing & Access inclusion",5,N/A,ABD,,Unknown
+29,Introducing signature initiative to the citys Identity and Culture,3,N/A,ABD,,Identity & Culture
+30,"Gateway to the World: On-street Live Video Conferencing
+between people of Delhi and multiple Global Cities",3,N/A,ABD,,Identity & Culture
+31,Delhi International Festival,-,N/A,ABD,,Identity & Culture
+32,Global Capital City Award,-,N/A,ABD,,Unknown
+33,Behavioral transformation,5,N/A,ABD,,Unknown
+34,E-governance,10,N/A,Pan City,,Governance
+35,Smart Grid and Energy Management (ongoing),958,N/A,Pan City,,Power Supply
+36,Smart Grid Implementation,528,N/A,Pan City,,Power Supply
+37,40 MW Solar Power Projects,430,N/A,Pan City,,Power Supply
+38,Pan- Smart Water and waste-water Management,190.42,Smart Water and Wastewater Management ,Pan City,,Wastewater Management
+39,"eLearning Solution in all NDMC schools, Virtual Labs",35,Smart Education,Pan City,,Education
+40,Centralized Students health e-records,10,Smart Education,Pan City,,Education
+41,Integrate all public medical facilities through Cloud-based e- healthcare system (Cloud provided by NIC under Digital India,20,Smart Health,Pan City,,Health
+42,"Centralised Hospitalization facilitation for EWS for enabling them to access private hospital beds reserved for EWS, & provision of transportation service for transfer to private hospitals",1.75,Smart Health,Pan City,,Health
+43,Virtual medical service,3,Smart Health,Pan City,,Health
