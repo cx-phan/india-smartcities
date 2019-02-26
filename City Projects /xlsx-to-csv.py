@@ -17,7 +17,7 @@ def convert_to_csv(name, new_name):
 		for i, value in enumerate(stripped):
 
 			if type(value) is unicode:
-				stripped[i] = value.encode('ascii', 'ignore')
+				stripped[i] = value.encode('ascii', 'ignore').strip(',')
 
 		answer = ''
 		
@@ -25,7 +25,7 @@ def convert_to_csv(name, new_name):
 			print 'Title:', stripped[1]
 			print 'Category', stripped[3]
 			response = int(raw_input("Type is?: "))
-			answer = all_labels[response -1]
+			answer = all_labels[response - 1]
 
 		wr.writerow(stripped + [answer])
 
