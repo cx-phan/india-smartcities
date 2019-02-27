@@ -6,7 +6,7 @@ import re
 
 def convert_to_csv(name, new_name): 
 	all_labels = ['Governance', 'Identity & Culture', 'Education','Health','Safety & Security','Economy & Employment','Housing & Inclusiveness','Public Open Space','Mixed Land Use; Compactness','Power Supply','Transportation & Mobility','Assured Water Supply','Wastewater Management','Solid Waste Management', 'Reduced Pollution', 'Unknown']
-	if name != './round-1/17-Guwahati_projects.xlsx':
+	if name != './round-1/20-Bhopal_projects.xlsx':
 		return
 	wb = xlrd.open_workbook(name)
 	sh = wb.sheet_by_name('Table 1')

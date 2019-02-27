@@ -1,6 +1,7 @@
 "List of Projects as per Smart City Proposal : Jaipur","","","","","",""
 "Sl. No.","Projects in SCP","Cost (Rs. in Crore)","City Tag","Size","Indicator","Unknown"
-"1.0","Road Infrastructure major corridor for NMT modes including segregated cycle tracks","52.7","Smart Mobility","ABD","","Transportation & Mobility"
+"1.0","Road Infrastructure major corridor for NMT modes including segregated
+cycle tracks","52.7","Smart Mobility","ABD","","Transportation & Mobility"
 "2.0","Footpath development for providing barrier free movement","8.1","Smart Mobility","ABD","","Transportation & Mobility"
 "3.0","Carriageway improvements including provision at bus shelters for providing
 universal access","29.8","Smart Mobility","ABD","","Transportation & Mobility"
@@ -15,7 +16,7 @@ universal access","29.8","Smart Mobility","ABD","","Transportation & Mobility"
 "11.0","Intelligent Traffic Management System - Synchronized Traffic Signals for
 optimum traffic flow","1.2","Smart Mobility","ABD","","Transportation & Mobility"
 "12.0","Intelligent Parking at Jaleb Chowk, Badi Chowpar, Ramvivas Bagh and 7 on
-street parking - 3080 ecs","8.18","Smart Mobility","ABD","","Transportation & Mobility"
+street parking - 3080 ecs","8.18","Smart Mobility","ABD","","Mixed Land Use; Compactness"
 "13.0","Adaptive reuse of heritage structures of Jaleb Chowk to global art square","23.0","Smart Heritage & Tourism","ABD","","Identity & Culture"
 "14.0","Adaptive reuse of heritage structures of old town hall to city musuem +
 high end theatre","130.0","Smart Heritage & Tourism","ABD","","Identity & Culture"
@@ -23,18 +24,18 @@ high end theatre","130.0","Smart Heritage & Tourism","ABD","","Identity & Cultur
 tourist interprator centre","20.0","Smart Heritage & Tourism","ABD","","Identity & Culture"
 "16.0","Adaptive reuse of heritage structiures of old Police HQ to Jaipur Habitat
 Centre","31.0","Smart Heritage & Tourism","ABD","","Identity & Culture"
-"17.0","Talkatora late redevelopment - restoring & cleaning of lake","30.0","Smart Heritage & Tourism","ABD","","Identity & Culture"
-"18.0","Talkatora late redevelopment -  high quality laser water re-use","50.0","Smart Heritage & Tourism","ABD","","Identity & Culture"
+"17.0","Talkatora late redevelopment - restoring & cleaning of lake","30.0","Smart Heritage & Tourism","ABD","","Public Open Space"
+"18.0","Talkatora late redevelopment -  high quality laser water re-use","50.0","Smart Heritage & Tourism","ABD","","Wastewater Management"
 "19.0","Redevelopment of Govind Dev ji temple","35.0","Smart Heritage & Tourism","ABD","","Identity & Culture"
 "20.0","Eco-friendly cool corridor","1.5","Smart Heritage & Tourism","ABD","","Identity & Culture"
-"21.0","Underground cabling - for OH utilities","50.0","Smart Heritage & Tourism","ABD","","Identity & Culture"
+"21.0","Underground cabling - for OH utilities","50.0","Smart Heritage & Tourism","ABD","","Power Supply"
 "22.0","Digital displays & information kiosks at heritage gates","1.0","Smart Heritage & Tourism","ABD","","Identity & Culture"
 "23.0","Heritage Walks (Smart poles/ CCTV/ Wi-Fi - to be covered in other schemes)
 + 11 heritage gates development","2.0","Smart Heritage & Tourism","ABD","","Identity & Culture"
 "24.0","Ram Nivas Bagh Improvement","15.0","Smart Heritage & Tourism","ABD","","Identity & Culture"
 "25.0","Faade Improvement","35.0","Smart Heritage & Tourism","ABD","","Identity & Culture"
 "26.0","Night Market","1.0","Smart Heritage & Tourism","ABD","","Identity & Culture"
-"27.0","Dedicated vending zone","1.0","Smart Heritage & Tourism","ABD","","Identity & Culture"
+"27.0","Dedicated vending zone","1.0","Smart Heritage & Tourism","ABD","","Economy & Employment"
 "28.0","Waste Water Recycling for Select Public Buildings and Monuments","15.0","Smart & Sustainable Civic Infrastructure","ABD","","Wastewater Management"
 "29.0","Storm water reuse for public buildings an selected monuments, Schools
 and Colleges and Parks","2.0","Smart & Sustainable Civic Infrastructure","ABD","","Wastewater Management"
@@ -52,7 +53,7 @@ network,GPRS connected.","1.0","Smart & Sustainable Civic Infrastructure","ABD",
 "38.0","Mobile applica1ion enabling citizens to report street problems connecting
 to e- governance portal","1.0","Smart & Sustainable Civic Infrastructure","ABD","","Governance"
 "39.0","CCTV proposed on 4 signalised intersections, select monuments and
-heritage walk corridor of 11.5 m length","2.0","Smart & Sustainable Civic Infrastructure","ABD","","Governance"
+heritage walk corridor of 11.5 m length","2.0","Smart & Sustainable Civic Infrastructure","ABD","","Safety & Security"
 "40.0","Incident alerts app, Helpline and SOS Mobile number and Panic Buttons","0.5","Smart & Sustainable Civic Infrastructure","ABD","","Safety & Security"
 "41.0","Assured Electricity Supply with atleast 15% or Smart City's Energy
 requirement coming from solar","41.0","Smart & Sustainable Civic Infrastructure","ABD","","Power Supply"

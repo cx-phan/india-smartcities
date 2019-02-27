@@ -52,7 +52,8 @@ all_names = glob.glob('CSV-files/round-1/*.csv')
 
 for i, name in enumerate(all_names):
 	parse(i, name)
-	all_values[i + 1][0] = name
+	final_name = re.findall("CSV-files\/round-1\/[0-9]+-(.*)_projects\.csv", name)[0]
+	all_values[i + 1][0] = final_name
 
 for i, name in enumerate(all_labels): 
 	all_values[0][(i + 1)* 2 - 1] = name + ' - Number'
